@@ -1,0 +1,4087 @@
+[
+    {
+        "questions": "*J'ai fait un rêve, le million d'Taga, le million d'Taga*",
+        "answers": ["balade"],
+        "final": ["**Balade**"]
+    },
+    {
+        "questions": "*Eux ils croient qu'ils sont bénis*",
+        "answers": ["balade"],
+        "final": ["**Balade**"]
+    },
+    {
+        "questions": "*Gucci, Gala, visser iencli à Levallois'*",
+        "answers": ["balade"],
+        "final": ["**Balade**"]
+    },
+    {
+        "questions": "*Si j'me fais trahir par une hyène*",
+        "answers": ["balade"],
+        "final": ["**Balade**"]
+    },
+    {
+        "questions": "*Faudra qu'on m'arrêtte, à jeun palpable est mon mal-être*",
+        "answers": ["balade"],
+        "final": ["**Balade**"]
+    },
+    {
+        "questions": "*On s'oubliera, tu l'sais non ?*",
+        "answers": ["balade"],
+        "final": ["**Balade**"]
+    },
+    {
+        "questions": "*M'attends pas aujourd'hui, j'vais pêcher*",
+        "answers": ["shinobi"],
+        "final": ["**Shinobi**"]
+    },
+    {
+        "questions": "*J'me r'vois devant la tour du 14 et la première fissure de vie*",
+        "answers": ["shinobi"],
+        "final": ["**Shinobi**"]
+    },
+    {
+        "questions": "*Bébé j'suis un pirate comme Sparrow*",
+        "answers": ["shinobi"],
+        "final": ["**Shinobi**"]
+    },
+    {
+        "questions": "*Ma fille, j'vais l'appeler Aliyah*",
+        "answers": ["shinobi"],
+        "final": ["**Shinobi**"]
+    },
+    {
+        "questions": "*Tu veux m'faire, sois sûr de toi, j'suis sûr tes côtes, sur tous les côtés*",
+        "answers": ["shinobi"],
+        "final": ["**Shinobi**"]
+    },
+    {
+        "questions": "*Il m'faut mon RS avant que j'méteigne comme LF*",
+        "answers": ["shinobi"],
+        "final": ["**Shinobi**"]
+    },
+    {
+        "questions": "*Dites-leur c'que j'dis pas dans l'CV*",
+        "answers": ["6sens"],
+        "final": ["**6 Sens**"]
+    },
+    {
+        "questions": "*Les gens ils gé-chan, j'ai l'avion t'as l'échelle*",
+        "answers": ["6sens"],
+        "final": ["**6 Sens**"]
+    },
+    {
+        "questions": "*J'les tord durant les 4 saisons*",
+        "answers": ["6sens"],
+        "final": ["**6 Sens**"]
+    },
+    {
+        "questions": "*On s'baisera pas pour d'l'argent tu t'en souviens*",
+        "answers": ["6sens"],
+        "final": ["**6 Sens**"]
+    },
+    {
+        "questions": "*Gros j'ai l'plan j'ai la clé, le parchemin ça y est non c'est pas bon*",
+        "answers": ["6sens"],
+        "final": ["**6 Sens**"]
+    },
+    {
+        "questions": "*Enfant je voulais devenir un pirate*",
+        "answers": ["6sens"],
+        "final": ["**6 Sens**"]
+    },
+    {
+        "questions": "*J'lai touchée en plein coeur*",
+        "answers": ["oulalala"],
+        "final": ["**Oulalala**"]
+    },
+    {
+        "questions": "*La go veut qu'on sex à Miami*",
+        "answers": ["oulalala"],
+        "final": ["**Oulalala**"]
+    },
+    {
+        "questions": "*Faire le plein d'euros avant que s'ça s'termine*",
+        "answers": ["oulalala"],
+        "final": ["**Oulalala**"]
+    },
+    {
+        "questions": "*Paris Paris Paris Paris, le soir t'es plus belle*",
+        "answers": ["oulalala"],
+        "final": ["**Oulalala**"]
+    },
+    {
+        "questions": "*Elle veut son CH, ah elle veut son CH ah boy*",
+        "answers": ["oulalala"],
+        "final": ["**Oulalala**"]
+    },
+    {
+        "questions": "*Fluide est la mélo', personne est né meilleur*",
+        "answers": ["oulalala"],
+        "final": ["**Oulalala**"]
+    },
+    {
+        "questions": "*Vie d'chateau comme Elvira, les Yeux de Médusa, le toucher de Midas*",
+        "answers": ["deuxvies", "2vies"],
+        "final": ["**Deux Vies**"]
+    },
+    {
+        "questions": "*L'démon me dit reste calme, à la fin il en reste qu'un*",
+        "answers": ["deuxvies", "2vies"],
+        "final": ["**Deux Vies**"]
+    },
+    {
+        "questions": "*La rue c'est noir, conseil: sois tout sauf docile*",
+        "answers": ["deuxvies", "2vies"],
+        "final": ["**Deux Vies**"]
+    },
+    {
+        "questions": "*Toi tu pourrais me trahir pour deux G*",
+        "answers": ["deuxvies", "2vies"],
+        "final": ["**Deux Vies**"]
+    },
+    {
+        "questions": "*J'vais compter les fours, y'en a combien sa mère*",
+        "answers": ["deuxvies", "2vies"],
+        "final": ["**Deux Vies**"]
+    },
+    {
+        "questions": "*Que des pirates qui pilotent dans la fusée*",
+        "answers": ["deuxvies", "2vies"],
+        "final": ["**Deux Vies**"]
+    },
+    {
+        "questions": "*Jamais plus j'tomberais aussi bas*",
+        "answers": ["labete"],
+        "final": ["**La Bête**"]
+    },
+    {
+        "questions": "*J'pars à la chasse, j'suis loin des hommes, ...*",
+        "answers": ["labete"],
+        "final": ["**La Bête**"]
+    },
+    {
+        "questions": "*Bâtard viens sous l'porche j'vais t'montrer c'est quoi la vie*",
+        "answers": ["labete"],
+        "final": ["**La Bête**"]
+    },
+    {
+        "questions": "*Ca ti-sors les métaux, à part ça rien d'spécial*",
+        "answers": ["labete"],
+        "final": ["**La Bête**"]
+    },
+    {
+        "questions": "*Nous quand on aime on fait pas semblant*",
+        "answers": ["labete"],
+        "final": ["**La Bête**"]
+    },
+    {
+        "questions": "*J'suis pété dans la ville, comment vois-tu l'avenir ?*",
+        "answers": ["labete"],
+        "final": ["**La Bête**"]
+    },
+    {
+        "questions": "*Les minots rabattent les canards*",
+        "answers": ["envieux"],
+        "final": ["**Envieux**"]
+    },
+    {
+        "questions": "*Bandit, bosser comme bandit*",
+        "answers": ["envieux"],
+        "final": ["**Envieux**"]
+    },
+    {
+        "questions": "*Tes rappeurs ils sont claqués*",
+        "answers": ["envieux"],
+        "final": ["**Envieux**"]
+    },
+    {
+        "questions": "*J'ai le num de ta pute dans mon cala*",
+        "answers": ["envieux"],
+        "final": ["**Envieux**"]
+    },
+    {
+        "questions": "*J'écris, j'suis sous l'eau j'ai pas pieds*",
+        "answers": ["envieux"],
+        "final": ["**Envieux**"]
+    },
+    {
+        "questions": "*J'effrite d'puis tout p'tit, j'découpe comme Zucci*",
+        "answers": ["envieux"],
+        "final": ["**Envieux**"]
+    },
+    {
+        "questions": "*Flemme un peu d'parler à l'humain*",
+        "answers": ["quotidien"],
+        "final": ["**Quotidien**"]
+    },
+    {
+        "questions": "*Est-ce qu'on échappe vraiment à soi-même ou on fait semblant toute l'année*",
+        "answers": ["quotidien"],
+        "final": ["**Quotidien**"]
+    },
+    {
+        "questions": "*Royal comme végé, sous teuh teuh j'suis léger*",
+        "answers": ["quotidien"],
+        "final": ["**Quotidien**"]
+    },
+    {
+        "questions": "*J'la fais sur du Z du zoo du Nelly ou A Capella*",
+        "answers": ["quotidien"],
+        "final": ["**Quotidien**"]
+    },
+    {
+        "questions": "*Tu l'sais nous c'est l'eau qui dort*",
+        "answers": ["quotidien"],
+        "final": ["**Quotidien**"]
+    },
+    {
+        "questions": "*Oh belek ça sent l'pépin*",
+        "answers": ["quotidien"],
+        "final": ["**Quotidien**"]
+    },
+    {
+        "questions": "*J'suis avec le H le sang, sous pillave Ginger B*",
+        "answers": ["alicante"],
+        "final": ["**Alicante**"]
+    },
+    {
+        "questions": "*Très peu d'issues favorables So Pantin et Sasori, ouais*",
+        "answers": ["alicante"],
+        "final": ["**Alicante**"]
+    },
+    {
+        "questions": "*J'ai vu la fin des hommes donc bientôt la chute des anges*",
+        "answers": ["alicante"],
+        "final": ["**Alicante**"]
+    },
+    {
+        "questions": "*Une icône nique sa mère la pute*",
+        "answers": ["alicante"],
+        "final": ["**Alicante**"]
+    },
+    {
+        "questions": "*J'cumule 100 péchés par saisons*",
+        "answers": ["alicante"],
+        "final": ["**Alicante**"]
+    },
+    {
+        "questions": "*Y'a plus grand chose car ils ont déjà tout façonné*",
+        "answers": ["alicante"],
+        "final": ["**Alicante**"]
+    } , 
+{
+    "questions": "*Tu connais La Lune, jamais en retrait*",
+    "answers": ["raptus"],
+    "final": ["**Raptus**"]
+},
+{
+    "questions": "*Aqua comme un requin, la go mouille comme si j'étais un rockeur*",
+    "answers": ["raptus"],
+    "final": ["**Raptus**"]
+},
+{
+    "questions": "*Ou quand ça f'sais des sessions sales avec DD*",
+    "answers": ["raptus"],
+    "final": ["**Raptus**"]
+},
+{
+    "questions": "*Elles nous causent des dégats, la monnaie, la gue-dro*",
+    "answers": ["raptus"],
+    "final": ["**Raptus**"]
+},
+{
+    "questions": "*Il m'dit: Prends sur toi, l'humain est fait de chair et d'erreurs*",
+    "answers": ["raptus"],
+    "final": ["**Raptus**"]
+},
+{
+    "questions": "*Mollo envoies l'épée, tu vas devenir ma proie*",
+    "answers": ["raptus"],
+    "final": ["**Raptus**"]
+},
+{
+    "questions": "*Et eux, j'sais qu'ils parlent de nous*",
+    "answers": ["seigneur"],
+    "final": ["**Seigneur**"]
+},
+{
+    "questions": "*En roche, c'est tout moi So La Lune*",
+    "answers": ["seigneur"],
+    "final": ["**Seigneur**"]
+},
+{
+    "questions": "*Sentiments trop pensants, j'vais faire comme Méliodas*",
+    "answers": ["seigneur"],
+    "final": ["**Seigneur**"]
+},
+{
+    "questions": "*Nique le monde c'est mort, faisons le tour de Paris*",
+    "answers": ["seigneur"],
+    "final": ["**Seigneur**"]
+},
+{
+    "questions": "*J'crois que pour nous c'est l'enfer direct*",
+    "answers": ["seigneur"],
+    "final": ["**Seigneur**"]
+},
+{
+    "questions": "*Les soucis sont profonds son père*",
+    "answers": ["seigneur"],
+    "final": ["**Seigneur**"]
+},
+{
+    "questions": "*Paris, y'a des mifs sur l'périph, mauvaise graine donne que des fruits défendus*",
+    "answers": ["laverse"],
+    "final": ["**L'averse**"]
+},
+{
+    "questions": "*T'es l'genre de n°°°° qui court à sa perte*",
+    "answers": ["laverse"],
+    "final": ["**L'averse**"]
+},
+{
+    "questions": "*Première fois, j'ai khabat avec Boris, je chante Fissure de Vie, pas La Bohème*",
+    "answers": ["laverse"],
+    "final": ["**L'averse**"]
+},
+{
+    "questions": "*Mes mélos, c'est pour les coeurs meurtris, qui a dit qu'y croire ça marche ?*",
+    "answers": ["laverse"],
+    "final": ["**L'averse**"]
+},
+{
+    "questions": "*Bien vu, j'en re-drop un, il m'dit : Bien vu l'aveugle*",
+    "answers": ["laverse"],
+    "final": ["**L'averse**"]
+},
+{
+    "questions": "*Numéro sept, j'tourne à l'azote, j'suis l'genre de pirate qui coule un navire*",
+    "answers": ["laverse"],
+    "final": ["**L'averse**"]
+},
+{
+    "questions": "*J'ai 400 démons qui d'mandent qu'à sortir*",
+    "answers": ["diagnostic"],
+    "final": ["**Diagnostic**"]
+},
+{
+    "questions": "*Ça dit quoi depuis l'époque avion en papier ?*",
+    "answers": ["diagnostic"],
+    "final": ["**Diagnostic**"]
+},
+{
+    "questions": "*Négro là-bas ça coupe des têtes c'est vraiment cru*",
+    "answers": ["diagnostic"],
+    "final": ["**Diagnostic**"]
+},
+{
+    "questions": "*Shoo-shoo-shooter sur le T5, il a vraiment plu*",
+    "answers": ["diagnostic"],
+    "final": ["**Diagnostic**"]
+},
+{
+    "questions": "*J'saute de la tour en balle, coup d'vent, courant d'air*",
+    "answers": ["diagnostic"],
+    "final": ["**Diagnostic**"]
+},
+{
+    "questions": "*Pas l'choix, faut qu'j'investisse et faut*",
+    "answers": ["diagnostic"],
+    "final": ["**Diagnostic**"]
+},
+{
+    "questions": "*Moi, j'attends zéro miracle, problèmes, j'ai l'habitude en vrai*",
+    "answers": ["sicacompte"],
+    "final": ["**Si ça compte**"]
+},
+{
+    "questions": "*J'rentrais tard le soir, j'ai moins vu l'daron que l'épicier*",
+    "answers": ["sicacompte"],
+    "final": ["**Si ça compte**"]
+},
+{
+    "questions": "*Mais j'ai la tête bien vissée (t'es fan de so t'es bien viscer)*",
+    "answers": ["sicacompte"],
+    "final": ["**Si ça compte**"]
+},
+{
+    "questions": "*Donc j'vis ça, couche ça, couche rouge, j'crois qu'y a trop*",
+    "answers": ["sicacompte"],
+    "final": ["**Si ça compte**"]
+},
+{
+    "questions": "*Le 31, j'suis pas sous champ', quelques lions ne vont pas suffire*",
+    "answers": ["sicacompte"],
+    "final": ["**Si ça compte**"]
+},
+{
+    "questions": "*Plus tu voles, plus ils veulent te clouer au sol, c'est pas un cliché*",
+    "answers": ["sicacompte"],
+    "final": ["**Si ça compte**"]
+},
+{
+    "questions": "*Pourtant, j'ai vu beaucoup d'salopes, tu baves sur moi comme si j't'avais carotte*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "questions": "*Sont plein dans ma tête, j'parle aux quarante*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "question": "*J'entends la voix qui résonne, oh, tu nous fais l'voyou, mais t'es la plus grande salope de ris-Pa*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "question": "*De m'enfuir, ça d'vient vital, on s'implique ça d'vient vital*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "question": "*J'navigue jusqu'au printemps et j'fais : nan nan nan*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "question": "*J'étouffe, gros, dis moi juste on y va quand, c'soir c'est Tsuki l'alligator*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "question": "*J'ai deux moi qui s'bagarrent ici, j'passe en d'ssous des radars*",
+    "answers": ["viedavant"],
+    "final": ["**Vie d'avant**"]
+},
+{
+    "questions": "*J'me revois enfant dire : ça sert à quoi la vie ?*",
+    "answers": ["unpeudemoi"],
+    "final": ["**Un peu de moi**"]
+},
+{
+    "questions": "*Adieu mon bébé, j'recomptrais les grammes*",
+    "answers": ["unpeudemoi"],
+    "final": ["**Un peu de moi**"]
+},
+{
+    "questions": "*J'y laisserais un peu d'moi, le flaash dans l'manteau noir*",
+    "answers": ["unpeudemoi"],
+    "final": ["**Un peu de moi**"]
+},
+{
+    "questions": "*Les anges nous entendent pas, le diable aime les gens, ils font que de ce-vi*",
+    "answers": ["unpeudemoi"],
+    "final": ["**Un peu de moi**"]
+},
+{
+    "questions": "*Salopes j'suis passé à, j'ai taffé, un jour ça paiera*",
+    "answers": ["unpeudemoi"],
+    "final": ["**Un peu de moi**"]
+},
+{
+    "questions": "*Il va falloir y croire, à deux demain c'est trop  loin*",
+    "answers": ["unpeudemoi"],
+    "final": ["**Un peu de moi**"]
+},
+{
+    "questions": "*Pourquoi tu m'guettes comme si c'était moi le pire des Hommes ?*",
+    "answers": ["gepetto"],
+    "final": ["**Gepetto**"]
+},
+{
+    "questions": "*La tête du Roi peu importe qui règne, note sera salée peu importe qui règle*",
+    "answers": ["gepetto"],
+    "final": ["**Gepetto**"]
+},
+{
+    "questions": "*Depuis minot, j'suis préparé, un beau jour on va s'séparer*",
+    "answers": ["gepetto"],
+    "final": ["**Gepetto**"]
+},
+{
+    "questions": "*T'arrêtes et j'rajoute du miel, j'suis derrière la dune, je vois même dans la brume*",
+    "answers": ["gepetto"],
+    "final": ["**Gepetto**"]
+},
+{
+    "questions": "*Il a plus la béquille, mais il a la visière, c'est la mort qui te visser*",
+    "answers": ["gepetto"],
+    "final": ["**Gepetto**"]
+},
+{
+    "questions": "*Allô ? Toi, c'est quoi ton p'tit nom, ? Salut, moi c'est la Lune *",
+    "answers": ["gepetto"],
+    "final": ["**Gepetto**"]
+},
+{
+    "questions": "*Le jour de fête moi j'suis avec l'autre, moi j'fais des combines*",
+    "answers": ["ocean"],
+    "final": ["**Océan**"]
+},
+{
+    "questions": "*J'les tords à l'infini, c'est Tsuki la chimie, le métal Alchimie*",
+    "answers": ["ocean"],
+    "final": ["**Océan**"]
+},
+{
+    "questions": "*Mets la moi, stud, carnage à mort, j'suis devant pourtant jamais à l'heure*",
+    "answers": ["ocean"],
+    "final": ["**Océan**"]
+},
+{
+    "questions": "*C'est moi contre eux, est-ce que l'affice te parle ?*",
+    "answers": ["ocean"],
+    "final": ["**Océan**"]
+},
+{
+    "questions": "*J'veux des E sans l'accent, Kader Sébastien*",
+    "answers": ["ocean"],
+    "final": ["**Océan**"]
+},
+{
+    "questions": "*J'suis Mewtwo d'vant Sasha, tu t'souviens plus d'tes rêves*",
+    "answers": ["ocean"],
+    "final": ["**Océan**"]
+},
+{
+    "questions": "*Si j'les tords pas j'dors mal*",
+    "answers": ["lapierre"],
+    "final": ["**La pierre**"]
+},
+{
+    "questions": "*J'prie pour qu'au grand jamais j'évite de m'voir dans la glace*",
+    "answers": ["lapierre"],
+    "final": ["**La pierre**"]
+},
+{
+    "questions": "*Mais est-ce que j'brille ou j'brûle, j'vois l'chemin au bout*",
+    "answers": ["lapierre"],
+    "final": ["**La pierre**"]
+},
+{
+    "questions": "*J'ai cherché une fleure, j'suis le même de puis le début*",
+    "answers": ["lapierre"],
+    "final": ["**La pierre**"]
+},
+{
+    "questions": "*J'suis né dans juste après le soixante-huit*",
+    "answers": ["lapierre"],
+    "final": ["**La pierre**"]
+},
+{
+    "questions": "*J'éteins toute la division, j'écoute leurs sons et j'coupe en mex dix secondes*",
+    "answers": ["lapierre"],
+    "final": ["**La pierre**"]
+},
+{
+    "questions": "*J'suis avec Bylka, sors la guitare, un peu rébav on parle d'nos vies d'avant*",
+    "answers": ["lame"],
+    "final": ["**L'âme**"]
+},
+{
+    "questions": "*C'est moi contre moi si c'est le Classico*",
+    "answers": ["lame"],
+    "final": ["**L'âme**"]
+},
+{
+    "questions": "*Retraite j'te souhaite de dead au bercail, pas d'plaid dans l'cerceuil*",
+    "answers": ["lame"],
+    "final": ["**L'âme**"]
+},
+{
+    "questions": "*J'tise Henny, bébé voudrait fuir ciel et terre*",
+    "answers": ["lame"],
+    "final": ["**L'âme**"]
+},
+{
+    "questions": "*J'ai baissé les stores, remonté le score*",
+    "answers": ["lame"],
+    "final": ["**L'âme**"]
+},
+{
+    "questions": "*Biz monétaire, ils vont finnir mort et fiers*",
+    "answers": ["lame"],
+    "final": ["**L'âme**"]
+},
+{
+    "questions": "*J'arrive j'fais coffee-coffee, le temps c'est précieux*",
+    "answers": ["arkham"],
+    "final": ["**Arkham**"]
+},
+{
+    "questions": "*J'suis que d'passage mais c'est mieux si j'peux passer dans le classe A*",
+    "answers": ["arkham"],
+    "final": ["**Arkham**"]
+},
+{
+    "questions": "*Mais t'auras toujours pas ton Channel, Channel*",
+    "answers": ["arkham"],
+    "final": ["**Arkham**"]
+},
+{
+    "questions": "*Gros t'étais pas né hein, j'remettais d'jà plein dans le panier hein*",
+    "answers": ["arkham"],
+    "final": ["**Arkham**"]
+},
+{
+    "questions": "*J'ai vu des stories si noires*",
+    "answers": ["arkham"],
+    "final": ["**Arkham**"]
+},
+{
+    "questions": "*J'enchaine les toxiques relations*",
+    "answers": ["arkham"],
+    "final": ["**Arkham**"]
+},
+{
+    "questions": "*Le temps passe et je sais, c'est chacun pour soi, gars*",
+    "answers": ["numero11"],
+    "final": ["**Numéro 11**"]
+},
+{
+    "questions": "*C'est la survie, vie de fêlé dans la jungle, on fait que des 7/7 semaine*",
+    "answers": ["numero11"],
+    "final": ["**Numéro 11**"]
+},
+{
+    "questions": "*Pendant qu'sa soeur elle m'envoie des coeurs*",
+    "answers": ["numero11"],
+    "final": ["**Numéro 11**"]
+},
+{
+    "questions": "*C'est sombre, y'a plus rien à voir, on est ressortit du i, y'avait plus rien à boire*",
+    "answers": ["numero11"],
+    "final": ["**Numéro 11**"]
+},
+{
+    "questions": "*J'compte les flokos, y'en a 800 wah, enterrez-moi dans l'vaisseau mère*",
+    "answers": ["numero11"],
+    "final": ["**Numéro 11**"]
+},
+{
+    "questions": "*J'suis dopé et l'passé me suit*",
+    "answers": ["numero11"],
+    "final": ["**Numéro 11**"]
+},
+{
+    "questions": "*J'aime pas la juge parce que ... On vit on meurt c'est ...*",
+    "answers": ["sebastienetkader", "sebastienkader"],
+    "final": ["**Sébastien et Kader**"]
+},
+{
+    "questions": "*Si tu parles de traitre, parles mieux au pluriel*",
+    "answers": ["sebastienetkader", "sebastienkader"],
+    "final": ["**Sébastien et Kader**"]
+},
+{
+    "questions": "*J'pilonne, j'pilotte comme Puyol*",
+    "answers": ["sebastienetkader", "sebastienkader"],
+    "final": ["**Sébastien et Kader**"]
+},
+{
+    "questions": "*J'ai jamais eu foi en l'humain, gros dans Hunter j'étais du côté des chimères*",
+    "answers": ["sebastienetkader", "sebastienkader"],
+    "final": ["**Sébastien et Kader**"]
+},
+{
+    "questions": "*Maintenant sur ma mère j'suis la reine des salopes si y'en a un qui touche la balle*",
+    "answers": ["sebastienetkader", "sebastienkader"],
+    "final": ["**Sébastien et Kader**"]
+},
+{
+    "questions": "*On peut tous dead pour l'appât du ...*",
+    "answers": ["sebastienetkader", "sebastienkader"],
+    "final": ["**Sébastien et Kader**"]
+},
+{
+    "questions": "*Hey, sais-tu sur moi j'ai combien de malheurs ?*",
+    "answers": ["dernierremord"],
+    "final": ["**Dernier remord**"]
+},
+{
+    "questions": "*Libre dans ma tête ils peuvent m'enmprisonner*",
+    "answers": ["dernierremord"],
+    "final": ["**Dernier remord**"]
+},
+{
+    "questions": "*Quand t'as l'impression que le monde est trop grand pour que quelqu'un entende tes pleurs et tes doutes*",
+    "answers": ["dernierremord"],
+    "final": ["**Dernier remord**"]
+},
+{
+    "questions": "*J'les sens tous bizarres j'sais pas c'qui m'arrive*",
+    "answers": ["dernierremord"],
+    "final": ["**Dernier remord**"]
+},
+{
+    "questions": "*Pense à leur dire qu'des fois j'écris y'a pas d'sens*",
+    "answers": ["dernierremord"],
+    "final": ["**Dernier remord**"]
+},
+{
+    "questions": "*Y'a dix moyens d'te faire sans qu'j'bouge du salon*",
+    "answers": ["dernierremord"],
+    "final": ["**Dernier remord**"]
+},
+{
+    "questions": "*Te mélange pas, tout droit et p't'être t'iras loin*",
+    "answers": ["elvira"],
+    "final": ["**Elvira**"]
+},
+{
+    "questions": "*J'ai pas cala les faux dans l'jeu*",
+    "answers": ["elvira"],
+    "final": ["**Elvira**"]
+},
+{
+    "questions": "*Nana dans l'noir sa mère, mais j'roule un autre*",
+    "answers": ["elvira"],
+    "final": ["**Elvira**"]
+},
+{
+    "questions": "*J'veux mon palace sinon pas la peine*",
+    "answers": ["elvira"],
+    "final": ["**Elvira**"]
+},
+{
+    "questions": "*J'coule que si t'es au fond parce que j'vais te ché-cher*",
+    "answers": ["elvira"],
+    "final": ["**Elvira**"]
+},
+{
+    "questions": "*Ecoute pas ils mentent, il est même pas humain*",
+    "answers": ["elvira"],
+    "final": ["**Elvira**"]
+},
+{
+    "questions": "*Ok, bonheur j'ai cherché toute la nuit*",
+    "answers": ["bonheur"],
+    "final": ["**Bonheur**"]
+},
+{
+    "questions": "*Signer la paix c'est trop pas l'idée*",
+    "answers": ["bonheur"],
+    "final": ["**Bonheur**"]
+},
+{
+    "questions": "*Et la go veut que j'pète une Maybach*",
+    "answers": ["bonheur"],
+    "final": ["**Bonheur**"]
+},
+{
+    "questions": "*Ils nous souhaitent du mal j'l'ai vu dans leur regard*",
+    "answers": ["bonheur"],
+    "final": ["**Bonheur**"]
+},
+{
+    "questions": "*C'est moins proche du rap que d'l'a chimie*",
+    "answers": ["bonheur"],
+    "final": ["**Bonheur**"]
+},
+{
+    "questions": "*On va jamais s'allier c'est des salopes, gros*",
+    "answers": ["bonheur"],
+    "final": ["**Bonheur**"]
+},
+{
+    "questions": "*Il m'faut un boule qui tient pas dans un Pick-up*",
+    "answers": ["malade"],
+    "final": ["**Malade**"]
+},
+{
+    "questions": "*T'en suces pour 10K des queues*",
+    "answers": ["malade"],
+    "final": ["**Malade**"]
+},
+{
+    "questions": "*J'me suis pas fait d'pote depuis l'époque*",
+    "answers": ["malade"],
+    "final": ["**Malade**"]
+},
+{
+    "questions": "*J'supporte plus trop l'humain, j'vais même plus sur Paname*",
+    "answers": ["malade"],
+    "final": ["**Malade**"]
+},
+{
+    "questions": "*Ils ont pété l'gratteur mais gros il s'est fait donner par l'tron-pa*",
+    "answers": ["malade"],
+    "final": ["**Malade**"]
+},
+{
+    "questions": "*Parce que j'voulais un teum à Los Angeles (F5, F6, F7, F5, F6, F8)*",
+    "answers": ["malade"],
+    "final": ["**Malade**"]
+},
+{
+    "questions": "*J'ai vu l'homme défier la mort, juste après c'est le vide*",
+    "answers": ["coupdeclat", "coupeclat"],
+    "final": ["**Coup d'éclat**"]
+},
+{
+    "questions": "*Faut qu'j'laisse la recette à mon héritage, si il faut même ma tante elle va s'broliquer*",
+    "answers": ["coupdeclat", "coupeclat"],
+    "final": ["**Coup d'éclat**"]
+},
+{
+    "questions": "*C'est tsuki du toit j'contrôle les titans déviants, la daronne voulait que son fils deveinne medecin.*",
+    "answers": ["coupdeclat", "coupeclat"],
+    "final": ["**Coup d'éclat**"]
+},
+{
+    "questions": "*Mais j'écris mieux quand je saigne, jme sens mieux quand la ville s'allume.*",
+    "answers": ["coupdeclat", "coupeclat"],
+    "final": ["**Coup d'éclat**"]
+},
+{
+    "questions": "*On se reverra peut-être un jour d'hiver en décembre, le shit me fait plus rien au mieux ça m'rend méfiant.*",
+    "answers": ["coupdeclat", "coupeclat"],
+    "final": ["**Coup d'éclat**"]
+},
+{
+    "questions": "*Mais quand ils sont sous coke, ils pensent qu'ils ont des pouvoirs.*",
+    "answers": ["lunecity"],
+    "final": ["**Lune city**"]
+},
+{
+    "questions": "*Sois vif la vie ça peut quer-cho, quand j'me réveille j'suis sous hiya*",
+    "answers": ["lunecity"],
+    "final": ["**Lune city**"]
+},
+{
+    "questions": "*Tu compteras toujours moins qu'mon putain d'billet d'cent.*",
+    "answers": ["lunecity"],
+    "final": ["**Lune city**"]
+},
+{
+    "questions": "*C'est des merdes je l'ai capté, j'étais très jeune, très jeune.*",
+    "answers": ["lunecity"],
+    "final": ["**Lune city**"]
+},
+{
+    "questions": "*Ca m'a rendu paro et méfiant, tout droit, pour sommes alléchantes*",
+    "answers": ["lunecity"],
+    "final": ["**Lune city**"]
+},
+{
+    "questions": "*Elle bouge son cul comme Rihanna, ils s'demandent pourquoi Fissure de vie*",
+    "answers": ["lunecity"],
+    "final": ["**Lune city**"]
+},
+{
+    "questions": "*Y'a rien à faire jvais m'isoler, dans ma boîte à secret j'y ai mis le roi.*",
+    "answers": ["sevenup", "7up"],
+    "final": ["**Seven Up**"]
+},
+{
+    "questions": "*J'écris l'été sur ris-pas, après j'vais pété l'ricard*",
+    "answers": ["sevenup", "7up"],
+    "final": ["**Seven Up**"]
+},
+{
+    "questions": "*T'façon gros bientôt c'est la fin, le nerf de la guerre c'est l'argent*",
+    "answers": ["sevenup", "7up"],
+    "final": ["**Seven Up**"]
+},
+{
+    "questions": "*La villa m'entend, le monde il m'attend, j'suis bloqué dans l'vide*",
+    "answers": ["sevenup", "7up"],
+    "final": ["**Seven Up**"]
+},
+{
+    "questions": "*Pendant c'temps là tu chantes comme Vitaa, tu fais des chorés comme Ouali*",
+    "answers": ["sevenup", "7up"],
+    "final": ["**Seven Up**"]
+},
+{
+    "questions": "*C'est  compliqué quand l'scénarion prend le dessus sur l'présent*",
+    "answers": ["i8"],
+    "final": ["**i8**"]
+},
+{
+    "questions": "*J'aurais sans doute rien parce que t'as rien sans amour*",
+    "answers": ["i8"],
+    "final": ["**i8**"]
+},
+{
+    "questions": "*Et nous on s'méfie tellement qu'on s'aime plus, toujours au stud et c'est dur*",
+    "answers": ["i8"],
+    "final": ["**i8**"]
+},
+{
+    "questions": "*Effrite sa mère j'mets des vraies doses, devant son boule j'suis un vrai gosse*",
+    "answers": ["i8"],
+    "final": ["**i8**"]
+},
+{
+    "questions": "*Mon futur teum faut qu'il pue l'oseille, y'en a beaucoup qui font les tho-my*",
+    "answers": ["i8"],
+    "final": ["**i8**"]
+},
+{
+    "questions": "*Hello, c'est Lala en VO au seill-o, j'fais tout c'qu'il faut tu l'sais, motivé*",
+    "answers": ["i8"],
+    "final": ["**i8**"]
+},
+{
+    "questions": "*J'roule toujours un J, posté en haut comme un gratte-ciel*",
+    "answers": ["sorcier"],
+    "final": ["**Sorcier**"]
+},
+{
+    "questions": "*Y a la Lune, j'marche seul, c'est l'histoire d'un corps sans cœur*",
+    "answers": ["sorcier"],
+    "final": ["**Sorcier**"]
+},
+{
+    "questions": "*J'vais chercher bonheur dans l'ivresse*",
+    "answers": ["sorcier"],
+    "final": ["**Sorcier**"]
+},
+{
+    "questions": "*J'fly mais à la fin du vol, j'atterris pas*",
+    "answers": ["sorcier"],
+    "final": ["**Sorcier**"]
+},
+{
+    "questions": "*J'ai vu des choses qui t'auraient fait perdre la foi*",
+    "answers": ["sorcier"],
+    "final": ["**Sorcier**"]
+},
+{
+    "questions": "*Viens on parle pas d'avenir, demain n'est pas certain*",
+    "answers": ["sorcier"],
+    "final": ["**Sorcier**"]
+},
+{
+    "questions": "*J'sors quand y a plus d'soleil, le ciel m'envoie des signes j'me dois de interagir*",
+    "answers": ["bonhommedeneige"],
+    "final": ["**Bonhomme de neige**"]
+},
+{
+    "questions": "*J'le fais si ça paie, un plus gros moteur sous l'capot*",
+    "answers": ["bonhommedeneige"],
+    "final": ["**Bonhomme de neige**"]
+},
+{
+    "questions": "*T'en dis des choses mais tu mens tout l'temps, et à la cité c'est pas Malaga*",
+    "answers": ["bonhommedeneige"],
+    "final": ["**Bonhomme de neige**"]
+},
+{
+    "questions": "*Envoie les clés d'la caisse, on s'casse, y a plus rien à faire, plus sommeil et l'ancien m'a dit : C'est la vie*",
+    "answers": ["bonhommedeneige"],
+    "final": ["**Bonhomme de neige**"]
+},
+{
+    "questions": "*Un plan planqué dans l'temps comme dans l'film, j'rentre, come dans la cogne comm King Kong.*",
+    "answers": ["bonhommedeneige"],
+    "final": ["**Bonhomme de neige**"]
+},
+{
+    "questions": "*Qu'est ce que tu veux faire quand tu sera grand ?*",
+    "answers": ["rode"],
+    "final": ["**Rodé**"]
+},
+{
+    "questions": "*J'disais moi et la drogue ça passera pas*",
+    "answers": ["rode"],
+    "final": ["**Rodé**"]
+},
+{
+    "questions": "*Fissure, j'suis cassé en deux*",
+    "answers": ["rode"],
+    "final": ["**Rodé**"]
+},
+{
+    "questions": "*Ô toi Créateur de tout, si tu m'entends, aies pitié de nous*",
+    "answers": ["rode"],
+    "final": ["**Rodé**"]
+},
+{
+    "questions": "*Le quartier s'ra encore en deuil*",
+    "answers": ["rode"],
+    "final": ["**Rodé**"]
+},
+{
+    "questions": "*De décembre à décembre, de janvier à janvier, abusé*",
+    "answers": ["rode"],
+    "final": ["**Rodé**"]
+},
+{
+    "questions": "*J'té-cla mon J sous un oranger, on a d'jà vu la mort en vrai*",
+    "answers": ["mission"],
+    "final": ["**Mission**"]
+},
+{
+    "questions": "*Y a pas un sa mère donc tous les jours ça magouille*",
+    "answers": ["mission"],
+    "final": ["**Mission**"]
+},
+{
+    "questions": "*Ils sont pas sincères, c'est la vie, j'l'aimais bien mais c'était une salope, c'est la vie*",
+    "answers": ["mission"],
+    "final": ["**Mission**"]
+},
+{
+    "questions": "*Quand elle s'gratte c'est pas de l'eczéma*",
+    "answers": ["mission"],
+    "final": ["**Mission**"]
+},
+{
+    "questions": "*J'té-cla mon J sous un oranger, on a d'jà vu la mort en vrai*",
+    "answers": ["mission"],
+    "final": ["**Mission**"]
+},
+{
+    "questions": "*Délit, questionné, j'suis parti sans réponse, tu pourras jamais briser un cœur en béton*",
+    "answers": ["goutvanille"],
+    "final": ["**Goût Vanille**"]
+},
+{
+    "questions": "*Les échos d'nos voix viennent de tout en bas, tu t'es trompé d'endroit si t'es v'nu faire la guerre*",
+    "answers": ["goutvanille"],
+    "final": ["**Goût Vanille**"]
+},
+{
+    "questions": "*Parle-moi que si c'est d'monnaie et bsahtek ta fausse Rolex*",
+    "answers": ["goutvanille"],
+    "final": ["**Goût Vanille**"]
+},
+{
+    "questions": "*Tu t'es pas trompé d'endroit si t'es v'nu faire la keh*",
+    "answers": ["goutvanille"],
+    "final": ["**Goût Vanille**"]
+},
+{
+    "questions": "*Y a l'autre devant l'entrée, kichta les chiffres ne mentent pas*",
+    "answers": ["goutvanille"],
+    "final": ["**Goût Vanille**"]
+},
+{
+    "questions": "*À la vie, y a d'la pagaille en sachet, à la tienne, 400 ans gros j'aime pas trop l'travail à la chaine*",
+    "answers": ["sagatome1"],
+    "final": ["**Saga tome 1**"]
+},
+{
+    "questions": "*J'ai cala aucune de leurs stories, c'est pas des rappeurs, c'est des timpes*",
+    "answers": ["sagatome1"],
+    "final": ["**Saga tome 1**"]
+},
+{
+    "questions": "*La nuit j'dors pas, le jour j'sors pas, et ma p'tite, elle a un Beretta*",
+    "answers": ["sagatome1"],
+    "final": ["**Saga tome 1**"]
+},
+{
+    "questions": "*Quand tu marches dans la ville, t'as des craintes, dans mon J, y a du shit et des plantes*",
+    "answers": ["sagatome1"],
+    "final": ["**Saga tome 1**"]
+},
+{
+    "questions": "*Faut faire rentrer comme Jimmy Fallon*",
+    "answers": ["sagatome1"],
+    "final": ["**Saga tome 1**"]
+},
+{
+    "questions": "*J'arrive pas à m'attacher et c'est pire depuis qu'j'cherche plus un sens caché*",
+    "answers": ["sagatome1"],
+    "final": ["**Saga tome 1**"]
+},
+{
+    "questions": "*Mais j'ai tout vu dans la ville (ouais), donc j'vais m'poser dans la jungle (nana)*",
+    "answers": ["biberon"],
+    "final": ["**Biberon**"]
+},
+{
+    "questions": "*J'dors mal quand j'insulte pas la juge (ouais), un vrai chasseur rentre pas sans la viande (nana)*",
+    "answers": ["biberon"],
+    "final": ["**Biberon**"]
+},
+{
+    "questions": "*J'crache ma haine sur CD (ahahah), gros chèque c'est mon bébé*",
+    "answers": ["biberon"],
+    "final": ["**Biberon**"]
+},
+{
+    "questions": "*J'me fais fouiller par l'agent, mais j'ai tout coffré c'est magique (hey)*",
+    "answers": ["biberon"],
+    "final": ["**Biberon**"]
+},
+{
+    "questions": "*J'ai cad'nassé l'démon, parait qu'ça tire parce que pas assez d'biff (han)*",
+    "answers": ["biberon"],
+    "final": ["**Biberon**"]
+},
+{
+    "questions": "*J'suis dans le bain, je fume le blunt et j'fais des bombes (et j'jette des baies)*",
+    "answers": ["biberon"],
+    "final": ["**Biberon**"]
+},
+{
+    "questions": "*L'ancien m'a dit : faut la jouer comme Adriano (nan, nan, nan)*",
+    "answers": ["afar"],
+    "final": ["**Afar**"]
+},
+{
+    "questions": "*J'me rappelle 2k11, je vivais ma pire année*",
+    "answers": ["afar"],
+    "final": ["**Afar**"]
+},
+{
+    "questions": "*J'ai gratté, j'ai gratté au fond de la classe, quand la prof me parlait ça f'sait na, na*",
+    "answers": ["afar"],
+    "final": ["**Afar**"]
+},
+{
+    "questions": "*J'étais khalé avec AJ, j'lui parle d'Athéna*",
+    "answers": ["afar"],
+    "final": ["**Afar**"]
+},
+{
+    "questions": "*Ils veulent que j'leur parle de la vie de demain mais gros moi, j'm'en bats les couilles (ah)*",
+    "answers": ["afar"],
+    "final": ["**Afar**"]
+},
+{
+    "questions": "*Des fois, j'suis surpris d'encore vivre, j'ai fait session à Pornic*",
+    "answers": ["afar"],
+    "final": ["**Afar**"]
+},
+{
+    "questions": "*Ah quand j'étais pauvre, bientôt je chante ah quand j'étais pauvre (han)*",
+    "answers": ["promesse"],
+    "final": ["**Promesse**"]
+},
+{
+    "questions": "*J'avais pas connu une chute si belle (ouais) et j'trouve que la lune n'est plus si belle (ah)*",
+    "answers": ["promesse"],
+    "final": ["**Promesse**"]
+},
+{
+    "questions": "*Ça fait longtemps qu'j'ai pas prié l'soir, l'alcool me détruit le foie*",
+    "answers": ["promesse"],
+    "final": ["**Promesse**"]
+},
+{
+    "questions": "*Y'a des gens leur taf c'est d'voir d'autres gens et leur dire: tu n'as plus de toit*",
+    "answers": ["promesse"],
+    "final": ["**Promesse**"]
+},
+{
+    "questions": "*J'suis comme un homme qui n'a plus son cœur, c'est triste comme un gosse qui n'a plus son père*",
+    "answers": ["promesse"],
+    "final": ["**Promesse**"]
+},
+{
+    "questions": "*Comme dans GTO, on rigole et tout mais j'vais t'montrer c'est comment*",
+    "answers": ["promesse"],
+    "final": ["**Promesse**"]
+},
+{
+    "questions": "*Mais moi gros j'peux pas mourir ici, c'est promis notre fin s'ra magnifique*",
+    "answers": ["montana"],
+    "final": ["**Montana**"]
+},
+{
+    "questions": "*Le thème : les tordre, au max, je vais dans l'ciel Pégase*",
+    "answers": ["montana"],
+    "final": ["**Montana**"]
+},
+{
+    "questions": "*J'suis cramé, j'parle de biff et Montana, waw j'suis die et mes démons veulent entrer en pour parler*",
+    "answers": ["montana"],
+    "final": ["**Montana**"]
+},
+{
+    "questions": "*J'écris et j'suis pété tout l'été, c'est nous futurista radio, vérifie*",
+    "answers": ["montana"],
+    "final": ["**Montana**"]
+},
+{
+    "questions": "*C'est d'ja ça j'fais partie du monde et j'ai jamais pu l'appeler mon bébé*",
+    "answers": ["montana"],
+    "final": ["**Montana**"]
+},
+{
+    "questions": "*Tu suces très bien c'est tout y'a pas d'feeling, c'est mieux tu tardes pas*",
+    "answers": ["montana"],
+    "final": ["**Montana**"]
+},
+{
+    "questions": "*Ma mère voulait qu'j'devienne médecin, avocat ou médecin*",
+    "answers": ["outromiroir"],
+    "final": ["**Outro miroir**"]
+},
+{
+    "questions": "*Prototype, Lune, dans l'jeu ils s'auto-tuent, leur vie une utopie*",
+    "answers": ["outromiroir"],
+    "final": ["**Outro miroir**"]
+},
+{
+    "questions": "*Mon n°°°° j'ai un problème (wow), cette année j'ai pété deux, trois collègues*",
+    "answers": ["outromiroir"],
+    "final": ["**Outro miroir**"]
+},
+{
+    "questions": "*Il a perdu sa dose, un geuch l'a trouvée (geuch)*",
+    "answers": ["outromiroir"],
+    "final": ["**Outro miroir**"]
+},
+{
+    "questions": "*Ouais mais gros tu racontes trop ta vie, c'est bon j'ai compris*",
+    "answers": ["outromiroir"],
+    "final": ["**Outro miroir**"]
+},
+{
+    "questions": "*Tu voles, quand tu voles pas, tu vends, c'est bon j'ai compris*",
+    "answers": ["outromiroir"],
+    "final": ["**Outro miroir**"]
+},
+{
+    "questions": "*Dans la ville ça pue l'opium*",
+    "answers": ["clm"],
+    "final": ["**CLM**"]
+},
+{
+    "questions": "*Nous on veut posséder aux Caïmans*",
+    "answers": ["clm"],
+    "final": ["**CLM**"]
+},
+{
+    "questions": "*C'était plus simple avant la thune (ouais), j'étais mouillé avant la pluie (gros)*",
+    "answers": ["clm"],
+    "final": ["**CLM**"]
+},
+{
+    "questions": "*Mais ma pute elle est loca, les p'tits ils sont niqués*",
+    "answers": ["clm"],
+    "final": ["**CLM**"]
+},
+{
+    "questions": "*C'est violent, quand j'observe mes démons danser*",
+    "answers": ["clm"],
+    "final": ["**CLM**"]
+},
+{
+    "questions": "*C'est tout noir, verseau la Lune c'est la collab'*",
+    "answers": ["clm"],
+    "final": ["**CLM**"]
+},
+{
+    "questions": "*Mais le rap ça leur monte à la tête gros*",
+    "answers": ["aubelier"],
+    "final": ["**Au bélier**"]
+},
+{
+    "questions": "*Non je bouge pas tant qu'j'ai pas, ce qui m'revient*",
+    "answers": ["aubelier"],
+    "final": ["**Au bélier**"]
+},
+{
+    "questions": "*Toute l'année j'pénave comme si le ciel venait d'me laisser un signe*",
+    "answers": ["aubelier"],
+    "final": ["**Au bélier**"]
+},
+{
+    "questions": "*J'pensais que la drogue pouvait me guérir, pendant longtemps*",
+    "answers": ["aubelier"],
+    "final": ["**Au bélier**"]
+},
+{
+    "questions": "*J'vais t'apprendre le rap miskine reviens*",
+    "answers": ["aubelier"],
+    "final": ["**Au bélier**"]
+},
+{
+    "questions": "*Très peu de drames, ils font beaucoup de bruit*",
+    "answers": ["aubelier"],
+    "final": ["**Au bélier**"]
+},
+{
+    "questions": "*C'est trop la casse dans ma rue, c'est d'pire en pire, j'vais m'barrer d'ici*",
+    "answers": ["kehlanta"],
+    "final": ["**Keh Lanta**"]
+},
+{
+    "questions": "*J'ai cherché dans la nuit (ouh ah), c'est plus simple dans la noche*",
+    "answers": ["kehlanta"],
+    "final": ["**Keh Lanta**"]
+},
+{
+    "questions": "*J'étais pété bien avant minuit (ouh), brasser, c'est ça la vie*",
+    "answers": ["kehlanta"],
+    "final": ["**Keh Lanta**"]
+},
+{
+    "questions": "*Donc après, j'ai pété Mika (salut), chelou l'histoire, ils prennent du ferme pour des fimbis*",
+    "answers": ["kehlanta"],
+    "final": ["**Keh Lanta**"]
+},
+{
+    "questions": "*Et demain, c'est à nous, oui, j'ai ma pillave et ma cons', j'arrive gazé atroce*",
+    "answers": ["kehlanta"],
+    "final": ["**Keh Lanta**"]
+},
+{
+    "questions": "*Mais j'peux pas stopper le temps, oui, j'ai cherché dans la nuit*",
+    "answers": ["kehlanta"],
+    "final": ["**Keh Lanta**"]
+},
+{
+    "questions": "*J'étais fait sur le toit, t'rappelles de moi ou pas ?*",
+    "answers": ["tsukito"],
+    "final": ["**Tsukito**"]
+},
+{
+    "questions": "*À quatorze j'ai quitté la zone, c'est chaud quand tu grandis*",
+    "answers": ["tsukito"],
+    "final": ["**Tsukito**"]
+},
+{
+    "questions": "*La vie laisse toujours une trace, dedans c'est vide j'aurai toujours une place*",
+    "answers": ["tsukito"],
+    "final": ["**Tsukito**"]
+},
+{
+    "questions": "*La rue a tué plus d'hommes que la peste, big aqua dans la pièce*",
+    "answers": ["tsukito"],
+    "final": ["**Tsukito**"]
+},
+{
+    "questions": "*C'que tu dis dans tes sons c'est pas la té-véri, elle a pé-pom l'équivalent de six Zéniths*",
+    "answers": ["tsukito"],
+    "final": ["**Tsukito**"]
+},
+{
+    "questions": "*Maximum devant la porte, je porte, minimum deux fois un coffre je coffre*",
+    "answers": ["tsukito"],
+    "final": ["**Tsukito**"]
+},
+{
+    "questions": "*Les feux sont verts c'est dar mais moi ça va pas trop ces temps-ci *",
+    "answers": ["tsukithese"],
+    "final": ["**Tsukithèse**"]
+},
+{
+    "questions": "*Fais bellek à l'humain, il t'porterait l'œil même si t'es borgne*",
+    "answers": ["tsukithese"],
+    "final": ["**Tsukithèse**"]
+},
+{
+    "questions": "*La balle est partie, grand silence (pff, pff), si tout va bien, les porcs filochent (ouais)*",
+    "answers": ["tsukithese"],
+    "final": ["**Tsukithèse**"]
+},
+{
+    "questions": "*J'les tords toute la s'maine et là il m'reste encore dimanche*",
+    "answers": ["tsukithese"],
+    "final": ["**Tsukithèse**"]
+},
+{
+    "questions": "*Nous, on cuisine les mots (han) mais on s'bousille sa mère (han)*",
+    "answers": ["tsukithese"],
+    "final": ["**Tsukithèse**"]
+},
+{
+    "questions": "*C'est la course au sommet, toute ma vie on m'a dit de patienter*",
+    "answers": ["tsukithese"],
+    "final": ["**Tsukithèse**"]
+},
+{
+    "questions": "*Ils clippent avec des chargeurs vidés (hein)*",
+    "answers": ["eternelle"],
+    "final": ["**Eternelle**"]
+},
+{
+    "questions": "*Aujourd'hui la cote de l'amour a chuté (ouais), aujourd'hui j'ai vu l'ancien parler tout seul*",
+    "answers": ["eternelle"],
+    "final": ["**Eternelle**"]
+},
+{
+    "questions": "*Foncecar, j'les regarde ils sont floutés (promets-moi)*",
+    "answers": ["eternelle"],
+    "final": ["**Eternelle**"]
+},
+{
+    "questions": "*J'ai jamais cherché un sens à ma vie (ouh ah), j'ai cherché un plan pour naviguer*",
+    "answers": ["eternelle"],
+    "final": ["**Eternelle**"]
+},
+{
+    "questions": "*J'drop un projet où j'te parle de la juge (ouh ah), de comment j'me détruis le foie*",
+    "answers": ["eternelle"],
+    "final": ["**Eternelle**"]
+},
+{
+    "questions": "*Notre jeunesse à nous fut si belle et tragique (hein), on ref'ra le monde à l'occas'*",
+    "answers": ["eternelle"],
+    "final": ["**Eternelle**"]
+},
+{
+    "questions": "*Mais comment on fait maintenant que l'homme a bibi du love ?*",
+    "answers": ["copine"],
+    "final": ["**Copine**"]
+},
+{
+    "questions": "*J'ignorais, j'le sais maintenant, y'a pas que Paris qui brille*",
+    "answers": ["copine"],
+    "final": ["**Copine**"]
+},
+{
+    "questions": "*J'aime bien quand c'est réel, quand c'est particulier*",
+    "answers": ["copine"],
+    "final": ["**Copine**"]
+},
+{
+    "questions": "*Pas que les mots qui riment, pas qu'les mauvais qui criment*",
+    "answers": ["copine"],
+    "final": ["**Copine**"]
+},
+{
+    "questions": "*Mais comment on fait maintenant ? Si dans toute la ville toi tu donnes ton cul*",
+    "answers": ["copine"],
+    "final": ["**Copine**"]
+},
+{
+    "questions": "*Le soir quand j'suis bleu, je parle à Rouge Carmin*",
+    "answers": ["copine"],
+    "final": ["**Copine**"]
+},
+{
+    "questions": "*La famille d'abord et la monnaie après, dans mes sons j'parle de malheur et d'Aventador*",
+    "answers": ["roblucci"],
+    "final": ["**Rob Lucci"]
+},
+{
+    "questions": "*Nous c'est les chimères, les meilleurs d'la filière*",
+    "answers": ["roblucci"],
+    "final": ["**Rob Lucci"]
+},
+{
+    "questions": "*La petite est folle, c'était bien maintenant file comme la petite étoile en vrai*",
+    "answers": ["roblucci"],
+    "final": ["**Rob Lucci"]
+},
+{
+    "questions": "*Mon flow peut changer plus de fois qu'un tartineur*",
+    "answers": ["roblucci"],
+    "final": ["**Rob Lucci"]
+},
+{
+    "questions": "*J'ai fait le tour de la city, par ici c'est crade, on est bien loin de Milan*",
+    "answers": ["roblucci"],
+    "final": ["**Rob Lucci"]
+},
+{
+    "questions": "*Clous d'girofle, j'mange trop la concu (hey), coup d'giro' tue, j'connais l'topo*",
+    "answers": ["roblucci"],
+    "final": ["**Rob Lucci"]
+},
+{
+    "questions": "*J'vois plus rien c'est plus que noir, je sais qu'là-bas y'a plus que nous*",
+    "answers": ["sortilege"],
+    "final": ["**Sortilège**"]
+},
+{
+    "questions": "*J'l'ai vu sous blanche et pas que quand il neige*",
+    "answers": ["sortilege"],
+    "final": ["**Sortilège**"]
+},
+{
+    "questions": "*Fréro j'voulais même pas rapper, on redrop et puis on repart après*",
+    "answers": ["sortilege"],
+    "final": ["**Sortilège**"]
+},
+{
+    "questions": "*Ça débite comme cinq cent ien-iens dans le four*",
+    "answers": ["sortilege"],
+    "final": ["**Sortilège**"]
+},
+{
+    "questions": "*Ça y est je cherche plus l'bonheur, je cherche le blé, les dollars*",
+    "answers": ["sortilege"],
+    "final": ["**Sortilège**"]
+},
+{
+    "questions": "*Il est l'temps d'faire des sous et de fuir le coin, j'suis sur Paname, j'écris le temps*",
+    "answers": ["sortilege"],
+    "final": ["**Sortilège**"]
+},
+{
+    "questions": "*Il m'aime pas trop, parce que sa go c'est p'tetre une groupie*",
+    "answers": ["sequelles"],
+    "final": ["**Séquelles**"]
+},
+{
+    "questions": "*J'suis pas la pour parler ou chanter tout-par, faut qu'j'parte d'ici avant que la ville me contamine*",
+    "answers": ["sequelles"],
+    "final": ["**Séquelles**"]
+},
+{
+    "questions": "*Gros c'est pété, j'ai rien fêté mais j'suis khapta encore*",
+    "answers": ["sequelles"],
+    "final": ["**Séquelles**"]
+},
+{
+    "questions": "*J'aime quand les briques s'étalent, ouh ah*",
+    "answers": ["sequelles"],
+    "final": ["**Séquelles**"]
+},
+{
+    "questions": "*Quand j'suis tombé love de ces sous, j'étais tout p'tit*",
+    "answers": ["sequelles"],
+    "final": ["**Séquelles**"]
+},
+{
+    "questions": "*Et rejoins-moi avant qu'la ville s'éteigne, c'est tout vu*",
+    "answers": ["sequelles"],
+    "final": ["**Séquelles**"]
+},
+{
+    "questions": "*Tu disais, frère j'sais plus mais c'que j'ai roulé c'est un gros*",
+    "answers": ["cm2"],
+    "final": ["**CM2**"]
+},
+{
+    "questions": "*J'crois qu'ce soir j'termine à terre, soucis pèsent comme mille haltères*",
+    "answers": ["cm2"],
+    "final": ["**CM2**"]
+},
+{
+    "questions": "*Pas tout l'monde quittera la rue et personne restera le même (Ouais)*",
+    "answers": ["cm2"],
+    "final": ["**CM2**"]
+},
+{
+    "questions": "*C'était le sang depuis enfant, c'est pas grave, apparemment ça tenait qu'à 5 fois 100 grammes*",
+    "answers": ["cm2"],
+    "final": ["**CM2**"]
+},
+{
+    "questions": "*C'est où la tête du roi ? J'suis né le 11 du mois*",
+    "answers": ["cm2"],
+    "final": ["**CM2**"]
+},
+{
+    "questions": "*T'es l'genre de n° qui suce des bites dans des vidéos*",
+    "answers": ["cm2"],
+    "final": ["**CM2**"]
+},
+{
+    "questions": "*Moi, j'suis comme Anakin, découpe comme à l'ancienne.*",
+    "answers": ["pacifique"],
+    "final": ["**Pacifique**"]
+},
+{
+    "questions": "*Y'a que deux choses qui tournent dans ma tête, finir sur une île ou finir à la guerre*",
+    "answers": ["pacifique"],
+    "final": ["**Pacifique**"]
+},
+
+{
+    "questions": "*La lune, la lune, hein, tu sais j'suis qui*",
+    "answers": ["pacifique"],
+    "final": ["**Pacifique**"]
+},
+{
+    "questions": "*Le jour où ça rentre, je chante, nique sa mère le rap (nique sa mère le rap)*",
+    "answers": ["pacifique"],
+    "final": ["**Pacifique**"]
+},
+{
+    "questions": "*Le mal est là, noir et mat, arena, Pamela, Pamela (han)*",
+    "answers": ["pacifique"],
+    "final": ["**Pacifique**"]
+},
+{
+    "questions": "*Y a pas 32 façons, ceux qui t'ont créé te diront: nous t'effaçons*",
+    "answers": ["pacifique"],
+    "final": ["**Pacifique**"]
+},
+{
+    "questions": "*J'allume du pollen, amnésia, sommeil, coffré chez Solène*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*Ta sœur la pute qui suce dans une Citroën*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*J'oublierai jamais les braves, ceux qui restent là même si t'es rien*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*Belek à la base les faux disaient c'est la miff*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*Arrête le rap, t'es bien meilleur dans l'cinéma*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*Ils ont remonté tout l'réseau sauf le patron*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*Sa tante la timp' le patron, allons enfants d'la patrie*",
+    "answers": ["sante"],
+    "final": ["**Santé**"]
+},
+{
+    "questions": "*Grimpe dans le wagon, c'est nous demain l'ancien*",
+    "answers": ["gina"],
+    "final": ["**Gina**"]
+},
+{
+    "questions": "*Un jour ils voudront me faire comme Diana*",
+    "answers": ["gina"],
+    "final": ["**Gina**"]
+},
+{
+    "questions": "*J'ai le sang froid, j'écris mieux sous la neige*",
+    "answers": ["gina"],
+    "final": ["**Gina**"]
+},
+{
+    "questions": "*J'veux faire des sous, j'veux pas passer sur la 5 (la Lune, la Lune, la Lune)*",
+    "answers": ["gina"],
+    "final": ["**Gina**"]
+},
+{
+    "questions": "*J'rap ça comme si c'était ma destiné (tu l'sais non)*",
+    "answers": ["gina"],
+    "final": ["**Gina**"]
+},
+{
+    "questions": "*Ramène le monde et tout c'qui suit, c'est que du charbon jusqu'ici (ouais allô)*",
+    "answers": ["gina"],
+    "final": ["**Gina**"]
+},
+{
+    "questions": "*J'regarde toujours le ciel comme si j'étais sur un deux roues*",
+    "answers": ["kitsu"],
+    "final": ["**Kitsu**"]
+},
+{
+    "questions": "*J'dépose un courrier à ta porte, on les fait couler, on tamponne*",
+    "answers": ["kitsu"],
+    "final": ["**Kitsu**"]
+},
+{
+    "questions": "*J'écrivais déjà quand j'étais un microbe (ah)*",
+    "answers": ["kitsu"],
+    "final": ["**Kitsu**"]
+},
+{
+    "questions": "*J'vais plus trop là-bas, ressers moi plutôt à boire (ah, ah)*",
+    "answers": ["kitsu"],
+    "final": ["**Kitsu**"]
+},
+{
+    "questions": "*Moi c'est Tsuki lala sama, me d'mande pas si ça va*",
+    "answers": ["kitsu"],
+    "final": ["**Kitsu**"]
+},
+{
+    "questions": "*Elle sait que j'le fais comme ATL elle est ravie*",
+    "answers": ["kitsu"],
+    "final": ["**Kitsu**"]
+},
+{
+    "questions": "*J'ai des visions la nuit, j'vois son corps dans une brouette*",
+    "answers": ["maitrenageur"],
+    "final": ["**Maitre nageur**"]
+},
+{
+    "questions": "*J'vais encore m'défoncer l'crâne jusqu'à c'que l'soleil se lève*",
+    "answers": ["maitrenageur"],
+    "final": ["**Maitre nageur**"]
+},
+{
+    "questions": "*J'aime pas quand la douane est volante, dans nos rues c'est crade et violent*",
+    "answers": ["maitrenageur"],
+    "final": ["**Maitre nageur**"]
+},
+{
+    "questions": "*Moi et ma pute dans une Cadillac*",
+    "answers": ["maitrenageur"],
+    "final": ["**Maitre nageur**"]
+},
+{
+    "questions": "*Ah non là c'est pas comme dans Gomorra*",
+    "answers": ["maitrenageur"],
+    "final": ["**Maitre nageur**"]
+},
+{
+    "questions": "*Qu'est-ce qu'il se fait fourrer, l'dindon d'la farce*",
+    "answers": ["maitrenageur"],
+    "final": ["**Maitre nageur**"]
+},
+{
+    "questions": "*On aime bien quand la prod elle tape*",
+    "answers": ["freestyle2efaille"],
+    "final": ["**Freestyle 2ème faille**"]
+},
+{
+    "questions": "*Tsuki c'est violent comme rentrer chez soi Et retrouver sa go dans un plan à 4*",
+    "answers": ["freestyle2efaille"],
+    "final": ["**Freestyle 2ème faille**"]
+},
+{
+    "questions": "*Nous on lâche ni le steak ni le mollet*",
+    "answers": ["freestyle2efaille"],
+    "final": ["**Freestyle 2ème faille**"]
+},
+{
+    "questions": "*Ouais, un jour il m'a dit : t'es dehors mais t'es pas libre*",
+    "answers": ["freestyle2efaille"],
+    "final": ["**Freestyle 2ème faille**"]
+},
+{
+    "questions": "*Moi c'est Minato (shinobi) Éclair sur la peau (ouais)*",
+    "answers": ["freestyle2efaille"],
+    "final": ["**Freestyle 2ème faille**"]
+},
+{
+    "questions": "*Toute l'année j'suis pété, yeah, J'étais encore dans l'trou cet été*",
+    "answers": ["freestyle2efaille"],
+    "final": ["**Freestyle 2ème faille**"]
+},
+{
+    "questions": "*Toc toc ! C'est qui ? C'est nous*",
+    "answers": ["freestyle1efaille", "freestyle1erefaille"],
+    "final": ["**Freestyle 1ère faille**"]
+},
+{
+    "questions": "*Won, won, moteur hybride, t'as sucé toute la Terre*",
+    "answers": ["freestyle1efaille", "freestyle1erefaille"],
+    "final": ["**Freestyle 1ère faille**"]
+},
+{
+    "questions": "*J'aime pas qu'on m'appelle rookie*",
+    "answers": ["freestyle1efaille", "freestyle1erefaille"],
+    "final": ["**Freestyle 1ère faille**"]
+},
+{
+    "questions": "*Catalogué genre j'ai toujours mon katana*",
+    "answers": ["freestyle1efaille", "freestyle1erefaille"],
+    "final": ["**Freestyle 1ère faille**"]
+},
+{
+    "questions": "*On est au courant, mer de problèmes j'irai pas loin en coulant*",
+    "answers": ["freestyle1efaille", "freestyle1erefaille"],
+    "final": ["**Freestyle 1ère faille**"]
+},
+{
+    "questions": "*C'est nous aussi quand les pistes sont brouillées*",
+    "answers": ["freestyle1efaille", "freestyle1erefaille"],
+    "final": ["**Freestyle 1ère faille**"]
+},
+{
+    "questions": "*Tsuki va doucement, tu vas perdre du love*",
+    "answers": ["freestyleapollo11"],
+    "final": ["**Freestyle Apollo 11**"]
+},
+{
+    "questions": "*Dans quelques projets j'suis à l'étranger*",
+    "answers": ["freestyleapollo11"],
+    "final": ["**Freestyle Apollo 11**"]
+},
+{
+    "questions": "*J'écris mieux quand j'entend l'orage et les sirènes*",
+    "answers": ["freestyleapollo11"],
+    "final": ["**Freestyle Apollo 11**"]
+},
+{
+    "questions": "*Encore un con qui nous apporte sa science*",
+    "answers": ["freestyleapollo11"],
+    "final": ["**Freestyle Apollo 11**"]
+},
+{
+    "questions": "*Toi c'est Luc Besson pour les travaux*",
+    "answers": ["freestyleapollo11"],
+    "final": ["**Freestyle Apollo 11**"]
+},
+{
+    "questions": "*Des traîtres y'en a 7900 sur 8000*",
+    "answers": ["freestyleapollo11"],
+    "final": ["**Freestyle Apollo 11**"]
+},
+{
+    "questions": "*Ça va t'remonter, bellek ça va t'remonter*",
+    "answers": ["freestyletheia"],
+    "final": ["**Freestyle Theia**"]
+},
+{
+    "questions": "*Mais ils savent pas c'que j'ai mis dans la Vittel (ouais) Du poison, des bonbons, du poison*",
+    "answers": ["freestyletheia"],
+    "final": ["**Freestyle Theia**"]
+},
+{
+    "questions": "*J'ai Kmer au tel, j'lui dit : Dans l'jeu y' beaucoup d'salopes, Il m'dit : T'as vu*",
+    "answers": ["freestyletheia"],
+    "final": ["**Freestyle Theia**"]
+},
+{
+    "questions": "*Le projet j'aurais pu l'appeler la fessée*",
+    "answers": ["freestyletheia"],
+    "final": ["**Freestyle Theia**"]
+},
+{
+    "questions": "*Pourquoi ils flambent autant dans une location ?*",
+    "answers": ["freestyletheia"],
+    "final": ["**Freestyle Theia**"]
+},
+{
+    "questions": "*J'suis devant l'truc, c'est morbide, morbide*",
+    "answers": ["freestyletheia"],
+    "final": ["**Freestyle Theia**"]
+},
+{
+    "questions": "*Encore un tour que j'casse, en bas des tours, j'me lasse*",
+    "answers": ["untour"],
+    "final": ["**Un tour**"]
+},
+{
+    "questions": "*Les deux pieds sur I'bitume, j'me cache comme Obito*",
+    "answers": ["untour"],
+    "final": ["**Un tour**"]
+},
+{
+    "questions": "*La vie, une pute, j'l'ai vue, elle tourne près d'chez moi*",
+    "answers": ["untour"],
+    "final": ["**Un tour**"]
+},
+{
+    "questions": "*J'aime la vitre ou pas, ça dépend d'laquelle, 4-5-7-100 fleurs fanées par l'orage*",
+    "answers": ["untour"],
+    "final": ["**Un tour**"]
+},
+{
+    "questions": "*Je joue avec les mots, enfants avec Latoul, on voulait faire le tour du monde*",
+    "answers": ["untour"],
+    "final": ["**Un tour**"]
+},
+{
+    "questions": "*Seul la nuit, j'repense à ces sessions, trois quarts du globe dans la CC*",
+    "answers": ["untour"],
+    "final": ["**Un tour**"]
+},
+{
+    "questions": "*Donne-moi ton cul, donne pas ton num', j'suis dans récit réel, bre-som*",
+    "answers": ["billy"],
+    "final": ["**Billy**"]
+},
+{
+    "questions": "*Il dinera à Milan, elle s'endormira dans la soie*",
+    "answers": ["billy"],
+    "final": ["**Billy**"]
+},
+{
+    "questions": "*Posé sous lean, j'suis dans l'château comme mollo, suspect comme mélo, chante la nuit*",
+    "answers": ["billy"],
+    "final": ["**Billy**"]
+},
+{
+    "questions": "*Salope, danse pour moi, danse pour moi comme Aicha*",
+    "answers": ["billy"],
+    "final": ["**Billy**"]
+},
+{
+    "questions": "*Cette pute fait son job, elle michtonne le bon gars, une mère perd son gosse*",
+    "answers": ["billy"],
+    "final": ["**Billy**"]
+},
+{
+    "questions": "*S/o Pandore, j'regarde le temps passer sur la pendule*",
+    "answers": ["billy"],
+    "final": ["**Billy**"]
+},
+{
+    "questions": "*J'sais qu'elle a kiffé, je sais qu'elle m'a touché, wah*",
+    "answers": ["sirene18"],
+    "final": ["**Sirène 18**"]
+},
+{
+    "questions": "*J'ai cherché une putain de fleur dans la mer*",
+    "answers": ["sirene18"],
+    "final": ["**Sirène 18**"]
+},
+{
+    "questions": "*Je suis descendu de la branche il y avait R*",
+    "answers": ["sirene18"],
+    "final": ["**Sirène 18**"]
+},
+{
+    "questions": "*Trop chaud sinon ça fait longtemps que j'aurai bibi dix à Simon*",
+    "answers": ["sirene18"],
+    "final": ["**Sirène 18**"]
+},
+{
+    "questions": "*Ton rappeur va calquer, il sait que j'ai la clé*",
+    "answers": ["sirene18"],
+    "final": ["**Sirène 18**"]
+},
+{
+    "questions": "*Et c'est balot, elle veut qu'on aille sexe à Bali*",
+    "answers": ["sirene18"],
+    "final": ["**Sirène 18**"]
+},
+{
+    "questions": "*Verte comme forêt, la beuh est folle, c'est inné, j'fais ça sans effort*",
+    "answers": ["yah09"],
+    "final": ["**Yah 09**"]
+},
+{
+    "questions": "*J'étais sur l'teckness avec le z, on cherchait comment stopper le temps*",
+    "answers": ["yah09"],
+    "final": ["**Yah 09**"]
+},
+{
+    "questions": "*107 ans, 107 ans, c'est l'temps qu'il leur faut pour venir me faire*",
+    "answers": ["yah09"],
+    "final": ["**Yah 09**"]
+},
+{
+    "questions": "*Elle est sous coca, eh elle est sous coca toute l'année*",
+    "answers": ["yah09"],
+    "final": ["**Yah 09**"]
+},
+{
+    "questions": "*Et si étant p'tit, on savait qu'un beau jour ce s'rait chacun sa vie*",
+    "answers": ["yah09"],
+    "final": ["**Yah 09**"]
+},
+{
+    "questions": "*Tu t'rappelles quand on n'avait pas d'sous mais toujours le sourire aux lèvres*",
+    "answers": ["yah09"],
+    "final": ["**Yah 09**"]
+},
+{
+    "questions": "*Lalalala, c'est moi, millions, 100k par semaine*",
+    "answers": ["abeille20"],
+    "final": ["**Abeille 20**"]
+},
+{
+    "questions": "*Allez cours sans t'arrêter, tu cherches bonheur, tu t'es trompé*",
+    "answers": ["abeille20"],
+    "final": ["**Abeille 20**"]
+},
+{
+    "questions": "*Regardez bien la concu' tomber de haut, j'arrive dique-sa comme GTO*",
+    "answers": ["abeille20"],
+    "final": ["**Abeille 20**"]
+},
+{
+    "questions": "*Contrôle son père et j'suis gé-char, j'suis pas serein*",
+    "answers": ["abeille20"],
+    "final": ["**Abeille 20**"]
+},
+{
+    "questions": "*On a grandi entre blocs de ciment et nos rues sont si moches*",
+    "answers": ["abeille20"],
+    "final": ["**Abeille 20**"]
+},
+{
+    "questions": "*Bilay, commande en 2K17, tu t'es fait piquer par Maya*",
+    "answers": ["abeille20"],
+    "final": ["**Abeille 20**"]
+},
+{
+    "questions": "*J'suis comme éteint, j'suis comme en pire sans ma dose*",
+    "answers": ["aqua15"],
+    "final": ["**Aqua 15**"]
+},
+{
+    "questions": "*Téma la R elle m'a usé, j'ai vu des gens mourir gratuit*",
+    "answers": ["aqua15"],
+    "final": ["**Aqua 15**"]
+},
+{
+    "questions": "*Je lui mets son coup quatre fois, bébé y'a pas de quoi*",
+    "answers": ["aqua15"],
+    "final": ["**Aqua 15**"]
+},
+{
+    "questions": "*Changement d'humeur, souvent la vie m'écoeure*",
+    "answers": ["aqua15"],
+    "final": ["**Aqua 15**"]
+},
+{
+    "questions": "*Ma vie, ma vie, ma vie, sans pitié comme la juge*",
+    "answers": ["aqua15"],
+    "final": ["**Aqua 15**"]
+},
+{
+    "questions": "*Au point aucun rappeur, et faire j'vais tous les faire à point*",
+    "answers": ["aqua15"],
+    "final": ["**Aqua 15**"]
+},
+{
+    "questions": "*Ça y est j'ai grandi maintenant, quand j'étais enfant, j'voulais faire l'tour de la Terre*",
+    "answers": ["fissuredevie23"],
+    "final": ["**Fissure de vie 23**"]
+},
+{
+    "questions": "*So La Lune dans cette timp, c'est So La Lune*",
+    "answers": ["fissuredevie23"],
+    "final": ["**Fissure de vie 23**"]
+},
+{
+    "questions": "*Écrit comme Kira, quand t'es d'vant nous, j'entends plus rien*",
+    "answers": ["fissuredevie23"],
+    "final": ["**Fissure de vie 23**"]
+},
+{
+    "questions": "*Elle fait la timp' sur l'podium, j'aime quand ses sseuf applaudissent*",
+    "answers": ["fissuredevie23"],
+    "final": ["**Fissure de vie 23**"]
+},
+{
+    "questions": "*La rue nous a ruiné, maintenant, c'est trop tard pour être délicat*",
+    "answers": ["fissuredevie23"],
+    "final": ["**Fissure de vie 23**"]
+},
+{
+    "questions": "*Beaucoup trop d'frères qui sont plus là, à l'âge de douze ans, tout s'empira*",
+    "answers": ["fissuredevie23"],
+    "final": ["**Fissure de vie 23**"]
+},
+{
+    "questions": "*Un pet' au bec, les decks aux pattes, la chatte à brrr*",
+    "answers": ["tsukinatra"],
+    "final": ["**Tsukinatra**"]
+},
+{
+    "questions": "*Salope si j'sors le millimètre, t'es cuit comme si j'ai fait des toasts*",
+    "answers": ["tsukinatra"],
+    "final": ["**Tsukinatra**"]
+},
+{
+    "questions": "*Ouais Tsuki t'écris bien, merci mais j'écris mieux négro quand il pleut sa mère*",
+    "answers": ["tsukinatra"],
+    "final": ["**Tsukinatra**"]
+},
+{
+    "questions": "*Il m'faut un chèque mais j'suis sous shot, rue des hommes paros*",
+    "answers": ["tsukinatra"],
+    "final": ["**Tsukinatra**"]
+},
+{
+    "questions": "*J'fais aqua dans ma jolie tess*",
+    "answers": ["tsukinatra"],
+    "final": ["**Tsukinatra**"]
+},
+{
+    "questions": "*Ils nous trouvent intriguant, la bête c'est la prison*",
+    "answers": ["tsukinatra"],
+    "final": ["**Tsukinatra**"]
+},
+{
+    "questions": "*J'ai fait le tour de Beriz T'aimes les ténèbres suis-moi, dans l'piège je joue titulaire*",
+    "answers": ["celine"],
+    "final": ["**Céline**"]
+},
+{
+    "questions": "*J'ai roulé genre 32 bouts, tellement en pierre, j'ai dit à mon frère : Si j'meurs, tu m'enterres debout*",
+    "answers": ["celine"],
+    "final": ["**Céline**"]
+},
+{
+    "questions": "*On a reup que du Seigneur Dieu, j'mange les ops saignants, bleus*",
+    "answers": ["celine"],
+    "final": ["**Céline**"]
+},
+{
+    "questions": "*Cette année y en a qui vont perdre leur cou*",
+    "answers": ["celine"],
+    "final": ["**Céline**"]
+},
+{
+    "questions": "*Plus rien dans la teille, à mort, au gros ils veuillent nous cueillir*",
+    "answers": ["celine"],
+    "final": ["**Céline**"]
+},
+{
+    "questions": "*Noire est la couverture du roman, j'aime trop le produit qui vient d'Hollande*",
+    "answers": ["celine"],
+    "final": ["**Céline**"]
+},
+{
+    "questions": "*J'ai vu des gens planter pour un 20*",
+    "answers": ["stamina"],
+    "final": ["**Stamina**"]
+},
+{
+    "questions": "*J'aime pas c'milieu, c'est le rodéo*",
+    "answers": ["stamina"],
+    "final": ["**Stamina**"]
+},
+{
+    "questions": "*La fée escorte la nuit vers Odéon*",
+    "answers": ["stamina"],
+    "final": ["**Stamina**"]
+},
+{
+    "questions": "*Tu rappes parce que t'es rien sans ça*",
+    "answers": ["stamina"],
+    "final": ["**Stamina**"]
+},
+{
+    "questions": "*J'vois ton vrai visage, Celui qu'tu montres pas aux gens*",
+    "answers": ["stamina"],
+    "final": ["**Stamina**"]
+},
+{
+    "questions": "*J'peux pas aller claquer au casino*",
+    "answers": ["stamina"],
+    "final": ["**Stamina**"]
+},
+{
+    "questions": "*Soir jaune et affolé, pas sommeil et faim mais maman s'fait un sang d'encre*",
+    "answers": ["freestyleraplune"],
+    "final": ["**Freestyle Raplune**"]
+},
+{
+    "questions": "*Le chemin ne mène pas au soleil et c'est le mal qui a pris l'ascendant*",
+    "answers": ["freestyleraplune"],
+    "final": ["**Freestyle Raplune**"]
+},
+{
+    "questions": "*Les gens l'appelaient sorcier, l'enfant d'la pluie*",
+    "answers": ["freestyleraplune"],
+    "final": ["**Freestyle Raplune**"]
+},
+{
+    "questions": "*Tout figer avant qu'on devienne l'ombre de nous-mêmes*",
+    "answers": ["freestyleraplune"],
+    "final": ["**Freestyle Raplune**"]
+},
+{
+    "questions": "*La rue ça pue sa mère comme le rap (ah) Faudra m'interdire comme le Rock*",
+    "answers": ["freestyleraplune"],
+    "final": ["**Freestyle Raplune**"]
+},
+{
+    "questions": "*Souvent les ténèbres c'est la seule issue par ici*",
+    "answers": ["freestyleraplune"],
+    "final": ["**Freestyle Raplune**"]
+},
+{
+    "questions": "*J'pourrais en perdre la raison, et le chemin de la maison*",
+    "answers": ["enfantsperdus"],
+    "final": ["**Enfants perdus**"]
+},
+{
+    "questions": "*Un pour tous, tous pour un bout de terrain*",
+    "answers": ["enfantsperdus"],
+    "final": ["**Enfants perdus**"]
+},
+{
+    "questions": "*C'est comme chercher les réponses sous le pallier*",
+    "answers": ["enfantsperdus"],
+    "final": ["**Enfants perdus**"]
+},
+{
+    "questions": "*C'est grave, c'est plus des putes que dans le bar à timp'*",
+    "answers": ["enfantsperdus"],
+    "final": ["**Enfants perdus**"]
+},
+{
+    "questions": "*Bonheur passe jamais par là, j'ai rien vu et c'est pas moi*",
+    "answers": ["enfantsperdus"],
+    "final": ["**Enfants perdus**"]
+},
+{
+    "questions": "*Et ils disent La Lune, ne peut que hey ho*",
+    "answers": ["enfantsperdus"],
+    "final": ["**Enfants perdus**"]
+},
+{
+    "questions": "*C'est comment mon vieux ? J'ai déjà ramé, ramé. Là, ça y est, je dois mailler, mailler*",
+    "answers": ["hennessy"],
+    "final": ["**Hennessy**"]
+},
+{
+    "questions": "*Y a plus d'amis quand c'est des histoires de plata, elle prend trop la C, j'l'ai vu parler au plafond*",
+    "answers": ["hennessy"],
+    "final": ["**Hennessy**"]
+},
+{
+    "questions": "*Je vis, je m'abîme, si j'meurs, emmenez-moi près des pyramides, oh nan*",
+    "answers": ["hennessy"],
+    "final": ["**Hennessy**"]
+},
+{
+    "questions": "*Ils m'aiment pas car j'suis pas modelable et parce que j'ai jamais parlé au Diable*",
+    "answers": ["hennessy"],
+    "final": ["**Hennessy**"]
+},
+{
+    "questions": "*Qu'il pine l'agent, j'en roule un, j'en roule un big, sa mère*",
+    "answers": ["hennessy"],
+    "final": ["**Hennessy**"]
+},
+{
+    "questions": "*Y a plus rien à gratter au quartier, c'est mort, j'sais pas c'que j'cherchais mais j'le cherchais dehors*",
+    "answers": ["hennessy"],
+    "final": ["**Hennessy**"]
+},
+{
+    "questions": "*Ils m'disent tu vient d'où ? Du Minnesota ?*",
+    "answers": ["5000otages", "5kotages"],
+    "final": ["**5000 Otages**"]
+},
+{
+    "questions": "*T'as parlé c'est bon, on va t'faire danser c'est mort*",
+    "answers": ["5000otages", "5kotages"],
+    "final": ["**5000 Otages**"]
+},
+{
+    "questions": "*T'es pas un cain-ri t'es un suceur de cain-ris*",
+    "answers": ["5000otages", "5kotages"],
+    "final": ["**5000 Otages**"]
+},
+{
+    "questions": "*Double So c'est le putain d'plan, j'connais la vie et et son putain d'prix*",
+    "answers": ["5000otages", "5kotages"],
+    "final": ["**5000 Otages**"]
+},
+{
+    "questions": "*Bizarre, t'es bizarre à mort, gros t'es une putain d'pute*",
+    "answers": ["5000otages", "5kotages"],
+    "final": ["**5000 Otages**"]
+},
+{
+    "questions": "*Sur la prod j'ai pas tiré à blanc, ça prépare un putain d'truc*",
+    "answers": ["5000otages", "5kotages"],
+    "final": ["**5000 Otages**"]
+},
+{
+    "questions": "*Elle m'dit qu'elle veut danser, mais moi j'ai grandi dans l'feu, près des coins où c'est dangereux*",
+    "answers": ["sousleciel"],
+    "final": ["**Sous le ciel**"]
+},
+{
+    "questions": "*C'était lui, pluie triste dans la city, il a fait tomber son cœur dans la ville*",
+    "answers": ["sousleciel"],
+    "final": ["**Sous le ciel**"]
+},
+{
+    "questions": "*J'attrape le Z et il a le cookie, tu parles trop, tu vas perdre ta tête comme le roi*",
+    "answers": ["sousleciel"],
+    "final": ["**Sous le ciel**"]
+},
+{
+    "questions": "*J'suis un aigle qui vole bien trop haut pour ces vautours*",
+    "answers": ["sousleciel"],
+    "final": ["**Sous le ciel**"]
+},
+{
+    "questions": "*J'peux transformer la misère en or, salope, tu sais qui j'suis*",
+    "answers": ["sousleciel"],
+    "final": ["**Sous le ciel**"]
+},
+{
+    "questions": "*J'vais sûrement pas mourir dans la joie, Tsuki, Fissure de vie dans la voix*",
+    "answers": ["sousleciel"],
+    "final": ["**Sous le ciel**"]
+},
+{
+    "questions": "*Y'a personne qu'assume quand c'est l'heure*",
+    "answers": ["skyfall"],
+    "final": ["**Skyfall**"]
+},
+{
+    "questions": "*J'étais pas khaler, donc j't'ai pas calla*",
+    "answers": ["skyfall"],
+    "final": ["**Skyfall**"]
+},
+{
+    "questions": "*J'suis dans la zone, Fuis le camps*",
+    "answers": ["skyfall"],
+    "final": ["**Skyfall**"]
+},
+{
+    "questions": "*Répète une relance et recharge au tel-ho*",
+    "answers": ["skyfall"],
+    "final": ["**Skyfall**"]
+},
+{
+    "questions": "*Car la note est salé, la lune*",
+    "answers": ["skyfall"],
+    "final": ["**Skyfall**"]
+},
+{
+    "questions": "*Ouais sisi la lune et tout, mais j'entends des voix*",
+    "answers": ["skyfall"],
+    "final": ["**Skyfall**"]
+},
+{
+    "questions": "*En bas d'nos tours, c'est la guerre pour l'seille-o*",
+    "answers": ["ideesnoires"],
+    "final": ["**Idées noires**"]
+},
+{
+    "questions": "*J'suis avec le Djalita (Han), on aime quand la 'teille a beaucoup d'années d'âge*",
+    "answers": ["ideesnoires"],
+    "final": ["**Idées noires**"]
+},
+{
+    "questions": "*Tous les mois, j'droppe sur eux, c'est carré, c'est carré, j'ai jamais mis la balle autre part que dans l'panier*",
+    "answers": ["ideesnoires"],
+    "final": ["**Idées noires**"]
+},
+{
+    "questions": "*J'peux mourir pour skalapes, c'est toujours mieux qu'prendre du ferme pour une salope*",
+    "answers": ["ideesnoires"],
+    "final": ["**Idées noires**"]
+},
+{
+    "questions": "*Elle veut qu'on fasse les galeries mondaines (Han) et après que j'la tue sur Paris hôtel*",
+    "answers": ["ideesnoires"],
+    "final": ["**Idées noires**"]
+},
+{
+    "questions": "*Les maudits, c'est nous mais ça rime bien donc applaudissez nous*",
+    "answers": ["ideesnoires"],
+    "final": ["**Idées noires**"]
+},
+{
+    "questions": "*Sorcier, mage noir, j'suis arrivé dans l'jeu comme un geek*",
+    "answers": ["sportmetaux"],
+    "final": ["**Sport + Métaux**"]
+},
+{
+    "questions": "*Avant dans leur four ils vendaient des hommes*",
+    "answers": ["sportmetaux"],
+    "final": ["**Sport + Métaux**"]
+},
+{
+    "questions": "*Mort à ceux qui ont touché des mômes*",
+    "answers": ["sportmetaux"],
+    "final": ["**Sport + Métaux**"]
+},
+{
+    "questions": "*Elle aime l'art, les arcs-en-ciel, les marques anciennes*",
+    "answers": ["sportmetaux"],
+    "final": ["**Sport + Métaux**"]
+},
+{
+    "questions": "*J'ai compris les remords ça part pas*",
+    "answers": ["sportmetaux"],
+    "final": ["**Sport + Métaux**"]
+},
+{
+    "questions": "*C'est la jungle et si tu chasses pas c'est toi qu'ils vont dévorer*",
+    "answers": ["neant"],
+    "final": ["**Néant**"]
+},
+{
+    "questions": "*Des soucis j't'ai dis mais c'est toujours mieux que tes rappeurs qui sucent des ...*",
+    "answers": ["neant"],
+    "final": ["**Néant**"]
+},
+{
+    "questions": "*J'vois le trou attend juste je prend de l'élan*",
+    "answers": ["neant"],
+    "final": ["**Néant**"]
+},
+{
+    "questions": "*La go finit top-less elle sait demain c'est moi le top 1*",
+    "answers": ["neant"],
+    "final": ["**Néant**"]
+},
+{
+    "questions": "* Dans ma tête 'sont 4, c'est nous les parasites qui partent de rien*",
+    "answers": ["neant"],
+    "final": ["**Néant**"]
+},
+{
+    "questions": "*Pourquoi tu fais comme si la vie ne t'avais pas essoré ?*",
+    "answers": ["neant"],
+    "final": ["**Néant**"]
+},
+{
+    "questions": "*Bébé compte pas sur moi J'suis pas sûr de...*",
+    "answers": ["pression"],
+    "final": ["**Pression**"]
+},
+{
+    "questions": "*Mais j'aime bien quand t'es irrationnelle*",
+    "answers": ["pression"],
+    "final": ["**Pression**"]
+},
+{
+    "questions": "*Tu parles beaucoup d'canons, j'préfère parler d'palmiers*",
+    "answers": ["pression"],
+    "final": ["**Pression**"]
+},
+{
+    "questions": "*Là, j'suis dans un dilemme, quinze heures, j'ai d'jà smoke un dix eu'*",
+    "answers": ["pression"],
+    "final": ["**Pression**"]
+},
+{
+    "questions": "*Finir riche avant d'caner, on va perdre avant d'gagner*",
+    "answers": ["pression"],
+    "final": ["**Pression**"]
+},
+{
+    "questions": "*Ils savent bien c'est qui cette année, négro, la rue c'est pas ta mère*",
+    "answers": ["pression"],
+    "final": ["**Pression**"]
+},
+{
+    "questions": "*J'me sens comme Katakuri, j'ai aimé une fleur, c'était pas la plus lisse*",
+    "answers": ["anakin"],
+    "final": ["**Anakin**"]
+},
+{
+    "questions": "*La Lune et les Terriens, et on jour on paiera tous les pots cassés*",
+    "answers": ["anakin"],
+    "final": ["**Anakin**"]
+},
+{
+    "questions": "*Pas pour les trophées, pas pour la fame*",
+    "answers": ["anakin"],
+    "final": ["**Anakin**"]
+},
+{
+    "questions": "*Le truc c'est qu'on peut pas s'aimer pour l'instant*",
+    "answers": ["anakin"],
+    "final": ["**Anakin**"]
+},
+{
+    "questions": "* Elle a donné son corps pour un truc chez Dior*",
+    "answers": ["anakin"],
+    "final": ["**Anakin**"]
+},
+{
+    "questions": "*Moi, j'ai perdu du temps, j'ai bien changé depuis*",
+    "answers": ["anakin"],
+    "final": ["**Anakin**"]
+},
+{
+    "questions": "*Ici, c'est froid, peu d'émotions, j'ai le sang givré*",
+    "answers": ["tsuki300"],
+    "final": ["**Tsuki300**"]
+},
+{
+    "questions": "*Y a pas qu'le feu qui brûle, y a pas qu'les mots qui riment*",
+    "answers": ["tsuki300"],
+    "final": ["**Tsuki300**"]
+},
+{
+    "questions": "*J'connais les gars d'chez toi, c'est tous des gentils garçons*",
+    "answers": ["tsuki300"],
+    "final": ["**Tsuki300**"]
+},
+{
+    "questions": "*J'vais dead pour une histoire de khaliss, c'est obligé*",
+    "answers": ["tsuki300"],
+    "final": ["**Tsuki300**"]
+},
+{
+    "questions": "*J'droppe plus que dans l'usine, j'sors que quand ça parle de 'seille*",
+    "answers": ["tsuki300"],
+    "final": ["**Tsuki300**"]
+},
+{
+    "questions": "*Fuck Elvira, j'préfère Gina, j'vis que pour faire rentrer des billets*",
+    "answers": ["tsuki300"],
+    "final": ["**Tsuki300**"]
+},
+{
+    "questions": "*La vie cogne mais j'suis pas accroupi*",
+    "answers": ["perdu"],
+    "final": ["**Perdu**"]
+},
+{
+    "questions": "*Elle, j'l'aimais bien, c'était pas une groupie*",
+    "answers": ["perdu"],
+    "final": ["**Perdu**"]
+},
+{
+    "questions": "*J'ai pris l'deux roues d'Ricky, j'ai cartonne vers l'épice*",
+    "answers": ["perdu"],
+    "final": ["**Perdu**"]
+},
+{
+    "questions": "*J'suis un produit d'en bas, sa mère le président*",
+    "answers": ["perdu"],
+    "final": ["**Perdu**"]
+},
+{
+    "questions": "*Té-ma, guette sa rétine, j'ai cramé le reptile*",
+    "answers": ["perdu"],
+    "final": ["**Perdu**"]
+},
+{
+    "questions": "*C'est chaud le score à la fin des deux mi-temps*",
+    "answers": ["perdu"],
+    "final": ["**Perdu**"]
+},
+{
+    "questions": "*Promets-moi d'jamais oublier*",
+    "answers": ["titanic"],
+    "final": ["**Titanic**"]
+},
+{
+    "questions": "*L'ange à ma gauche me dit qu'c'est bientôt la fin*",
+    "answers": ["titanic"],
+    "final": ["**Titanic**"]
+},
+{
+    "questions": "*Te'-te' dans la gorge, j'suis libre comme dans la grotte*",
+    "answers": ["titanic"],
+    "final": ["**Titanic**"]
+},
+{
+    "questions": "*J'souris, j'attends la grêle, bolide, j'attends la brèche*",
+    "answers": ["titanic"],
+    "final": ["**Titanic**"]
+},
+{
+    "questions": "*Folie des rois mais j'convoite ni la couronne, ni les catins*",
+    "answers": ["titanic"],
+    "final": ["**Titanic**"]
+},
+{
+    "questions": "*C'est l'dixième verre de trop, j'observe les gouttes qui longent la gouttière*",
+    "answers": ["serum"],
+    "final": ["**Sérum**"]
+},
+{
+    "questions": "*Vas pas loin, gros, avec 100K en p'tites coupures*",
+    "answers": ["serum"],
+    "final": ["**Sérum**"]
+},
+{
+    "questions": "*J'ai fait les cent pas, aucun péché demeure sans poids*",
+    "answers": ["serum"],
+    "final": ["**Sérum**"]
+},
+{
+    "questions": "*C'est pas un cœur, c'est un réacteur*",
+    "answers": ["serum"],
+    "final": ["**Sérum**"]
+},
+{
+    "questions": "*Beaucoup des miens jugés à tort*",
+    "answers": ["serum"],
+    "final": ["**Sérum**"]
+},
+{
+    "questions": "*Montre-moi la vraie vie sans FX (Oh-oh-oh), j'y vais si l'offre est alléchante (Ouais)*",
+    "answers": ["serum"],
+    "final": ["**Sérum**"]
+},
+{
+    "questions": "*Pas d'place pour le doute, parano, l'ennemi c'est chaque être vivant terrestre*",
+    "answers": ["retourdeflammes"],
+    "final": ["**Retour de flammes**"]
+},
+{
+    "questions": "*Ils n'peuvent pas détruire mon cœur, c'est nous le bruit et l'odeur*",
+    "answers": ["retourdeflammes"],
+    "final": ["**Retour de flammes**"]
+},
+{
+    "questions": "*J'écris pété sur le char, j'ai vu partir ton nom sur le sable*",
+    "answers": ["retourdeflammes"],
+    "final": ["**Retour de flammes**"]
+},
+{
+    "questions": "*Jamais voulu être l'acteur principal du film, y a d'la romance partout, même dans un bar à tains-p'*",
+    "answers": ["retourdeflammes"],
+    "final": ["**Retour de flammes**"]
+},
+{
+    "questions": "*C'est du rap ou de l'art ? Mais là, ce soir, c'est mort, j'suis au stud' avec Amine*",
+    "answers": ["retourdeflammes"],
+    "final": ["**Retour de flammes**"]
+},
+{
+    "questions": "*Mais là, j'suis plus fort que jamais, la drogue : ma potion, j'baraude dans la ville*",
+    "answers": ["retourdeflammes"],
+    "final": ["**Retour de flammes**"]
+},
+{
+    "questions": "*J'vais prendre la route, j't'ai dit, j'vais prendre la route*",
+    "answers": ["transmissionautomatique"],
+    "final": ["**Transmission Automatique**"]
+},
+{
+    "questions": "*J'suis dans l'treize, allô ? Götze, Götze ? J'descends la 'teille sans le doseur*",
+    "answers": ["transmissionautomatique"],
+    "final": ["**Transmission Automatique**"]
+},
+{
+    "questions": "*J'reviens de loin, j'ai le fusil sur la A7*",
+    "answers": ["transmissionautomatique"],
+    "final": ["**Transmission Automatique**"]
+},
+{
+    "questions": "*Zoner, c'est plus pour moi (Eh-eh), j'vais mais c'est plutôt noir*",
+    "answers": ["transmissionautomatique"],
+    "final": ["**Transmission Automatique**"]
+},
+{
+    "questions": "*Un jour de pluie, j'suis né, jour d'tempête, j'suis né*",
+    "answers": ["transmissionautomatique"],
+    "final": ["**Transmission Automatique**"]
+},
+{
+    "questions": "*Ici, c'est l'ennemi qui t'enterre*",
+    "answers": ["transmissionautomatique"],
+    "final": ["**Transmission Automatique**"]
+},
+{
+    "questions": "*J'écrivais cette merde j'étais ado, J'ai plus de potion que dans le labo*",
+    "answers": ["lalune"],
+    "final": ["**La lune**"]
+},
+{
+    "questions": "*Mais je peux pas l'appeler bébé, Elle me suce la bite sous cc*",
+    "answers": ["lalune"],
+    "final": ["**La lune**"]
+},
+{
+    "questions": "*Je suis avec Carmin et Nakadji*",
+    "answers": ["lalune"],
+    "final": ["**La lune**"]
+},
+{
+    "questions": "*Je descends de la lune, connexion avec Djadavo*",
+    "answers": ["lalune"],
+    "final": ["**La lune**"]
+},
+{
+    "questions": "*Moi toute l'année je suis pété La lune la lune la lune*",
+    "answers": ["lalune"],
+    "final": ["**La lune**"]
+},
+{
+    "questions": "*Je veux plus de ient-ient que dans le mago*",
+    "answers": ["lalune"],
+    "final": ["**La lune**"]
+},
+{
+    "questions": "*J'ai pas vu l'temps passer, mais j'viens d'passer la douane c'est parfait yeah*",
+    "answers": ["linkup"],
+    "final": ["**Link Up**"]
+},
+{
+    "questions": "*C'est Paris, la mort se vend en sachet*",
+    "answers": ["linkup"],
+    "final": ["**Link Up**"]
+},
+{
+    "questions": "*J'suis au d'ssus d'eux ils ont vue sur mes chevilles*",
+    "answers": ["linkup"],
+    "final": ["**Link Up**"]
+},
+{
+    "questions": "*La cité chauffe mais j'ai rien vu d'torride*",
+    "answers": ["linkup"],
+    "final": ["**Link Up**"]
+},
+{
+    "questions": "*Moi dedans j'ai tout mis, ils ont tué l'espoir, j'ai tout vu*",
+    "answers": ["linkup"],
+    "final": ["**Link Up**"]
+},
+{
+    "questions": "*J'ai la haine comme le désossé, comme le désossé Ivar*",
+    "answers": ["linkup"],
+    "final": ["**Link Up**"]
+},
+{
+    "questions": "*Que quand j'ai deux grammes dans l'sang*",
+    "answers": ["bell"],
+    "final": ["**Bell**"]
+},
+{
+    "questions": "*Toute la ville le sait demain c'est nous sur le podium*",
+    "answers": ["bell"],
+    "final": ["**Bell**"]
+},
+{
+    "questions": "*Toute l'année, j'noie mes doutes dans l'néant*",
+    "answers": ["bell"],
+    "final": ["**Bell**"]
+},
+{
+    "questions": "*Mais moi jamais d'la vie j'pourrais leur tendre la joue*",
+    "answers": ["bell"],
+    "final": ["**Bell**"]
+},
+{
+    "questions": "*À la fin d'l'histoire faut sortir les violons*",
+    "answers": ["bell"],
+    "final": ["**Bell**"]
+},
+{
+    "questions": "*Je fais cette merde et après j'ai les euros*",
+    "answers": ["bell"],
+    "final": ["**Bell**"]
+},
+{
+    "questions": "*Elle sait que j'suis bientôt riche, elle veut être au soleil avec la Luna*",
+    "answers": ["preach"],
+    "final": ["**Preach**"]
+},
+{
+    "questions": "*On ramène le mouvement, la fin d'l'histoire s'ra émouvante*",
+    "answers": ["preach"],
+    "final": ["**Preach**"]
+},
+{
+    "questions": "*Quinze ans qu'j'fais cette merde, faut pas qu'tu m'parles à moi*",
+    "answers": ["preach"],
+    "final": ["**Preach**"]
+},
+{
+    "questions": "*C'est les sous qui m'appellent au walkie*",
+    "answers": ["preach"],
+    "final": ["**Preach**"]
+},
+{
+    "questions": "*Dès l'réveil, j'pense à toi, t'es ma plus belle des migraines*",
+    "answers": ["preach"],
+    "final": ["**Preach**"]
+},
+{
+    "questions": "*Normal tout l'temps c'est bon j'ai compris*",
+    "answers": ["preach"],
+    "final": ["**Preach**"]
+},
+{
+    "questions": "*J'ai plus sommeil, il verra pas car nos vies s'écrivent*",
+    "answers": ["smile"],
+    "final": ["**Smile :(**"]
+},
+{
+    "questions": "*Derrière l'rideau, c'est pas c'que tu crois, dis-leur juste j'ai fait comme j'ai pu*",
+    "answers": ["smile"],
+    "final": ["**Smile :(**"]
+},
+{
+    "questions": "*Elle m'harcèle, j'lui dis juste que mort, c'est mort*",
+    "answers": ["smile"],
+    "final": ["**Smile :(**"]
+},
+{
+    "questions": "*Tu t'impliques pas mais tu fais la rue, belek à toi, ils peuvent te faire faire la roue*",
+    "answers": ["smile"],
+    "final": ["**Smile :(**"]
+},
+{
+    "questions": "*L'univers, les tropiques, une go trop sah, mon pét' aussi*",
+    "answers": ["smile"],
+    "final": ["**Smile :(**"]
+},
+{
+    "questions": "*J'souris même si c'est plus trop ça, j'connais, quand c'est dur, ça pique au cœur*",
+    "answers": ["smile"],
+    "final": ["**Smile :(**"]
+},
+{
+    "questions": "*Mais moi, j'suis qu'un homme, J'fonce quand ça me dit ça rapporte*",
+    "answers": ["bougie"],
+    "final": ["**Bougie**"]
+},
+{
+    "questions": "*J'suis un oiseau de malheur*",
+    "answers": ["bougie"],
+    "final": ["**Bougie**"]
+},
+{
+    "questions": "*Et la juge c'est une... Tsukito*",
+    "answers": ["bougie"],
+    "final": ["**Bougie**"]
+},
+{
+    "questions": "*2k21, tu mets encore des zanotti*",
+    "answers": ["bougie"],
+    "final": ["**Bougie**"]
+},
+{
+    "questions": "*J'me réveille j'ai noyé la concu', pourtant j'avais rien contre eux*",
+    "answers": ["bougie"],
+    "final": ["**Bougie**"]
+},
+{
+    "questions": "*Ok, ils disent que c'est la lune cette année*",
+    "answers": ["bougie"],
+    "final": ["**Bougie**"]
+},
+{
+    "questions": "*Faut qu'j'cogite, moins d'dix millions, j'suis pas cosy*",
+    "answers": ["beatrice"],
+    "final": ["**Béatrice**"]
+},
+{
+    "questions": "*Tsuki lala, sorcier lala, j'tranche comme la lame*",
+    "answers": ["beatrice"],
+    "final": ["**Béatrice**"]
+},
+{
+    "questions": "*La Terre se meurt, ha gros, tu connais l'homme, c'est l'homme*",
+    "answers": ["beatrice"],
+    "final": ["**Béatrice**"]
+},
+{
+    "questions": "*Chemin de vie, sous pluie, sous venin*",
+    "answers": ["beatrice"],
+    "final": ["**Béatrice**"]
+},
+{
+    "questions": "*On s'fait charmer par le mal, on l'fait si bénéf' il y a*",
+    "answers": ["beatrice"],
+    "final": ["**Béatrice**"]
+},
+{
+    "questions": "*J'rêve que leurs têtes tombent comme le roi*",
+    "answers": ["beatrice"],
+    "final": ["**Béatrice**"]
+},
+{
+    "questions": "*J'peux pas feat avec Angele*",
+    "answers": ["billetde5", "billetdecinq"],
+    "final": ["**Billet de 5**"]
+},
+{
+    "questions": "*Écorché, quand l'ciel se prononce, faut pas forcer*",
+    "answers": ["billetde5", "billetdecinq"],
+    "final": ["**Billet de 5**"]
+},
+{
+    "questions": "*L'ancien moi s'efface dans l'sable, le prochain moi renaîtra dans l'feu*",
+    "answers": ["billetde5", "billetdecinq"],
+    "final": ["**Billet de 5**"]
+},
+{
+    "questions": "*Dans ma tête j'fais des virages à centà l'heure, bande au bloc il fait gris et ça sent la mort*",
+    "answers": ["billetde5", "billetdecinq"],
+    "final": ["**Billet de 5**"]
+},
+{
+    "questions": "*J'fais cette merde depuis qu'j'suis sous l'préau*",
+    "answers": ["billetde5", "billetdecinq"],
+    "final": ["**Billet de 5**"]
+},
+{
+    "questions": "*Bave sur moi et quand on s'croise me sert la main*",
+    "answers": ["billetde5", "billetdecinq"],
+    "final": ["**Billet de 5**"]
+},
+{
+    "questions": "*L'aile de l'ange qui se déchire*",
+    "answers": ["lune"],
+    "final": ["**Lune**"]
+},
+{
+    "questions": "*J'tais plus dans l'trou que René La Taupe, ouah*",
+    "answers": ["lune"],
+    "final": ["**Lune**"]
+},
+{
+    "questions": "*Vision d'ensemble, cœur noir, nacré*",
+    "answers": ["lune"],
+    "final": ["**Lune**"]
+},
+{
+    "questions": "*Trois xans, vingt ans d'ratés, maison hantée*",
+    "answers": ["lune"],
+    "final": ["**Lune**"]
+},
+{
+    "questions": "*Ça fait longtemps qu'mes problèmes me noient*",
+    "answers": ["lune"],
+    "final": ["**Lune**"]
+},
+{
+    "questions": "*Plus de magie, papelard, mape'*",
+    "answers": ["lune"],
+    "final": ["**Lune**"]
+},
+{
+    "questions": "*Elle veut qu'j'la sorte dans la ville, Zina*",
+    "answers": ["berger"],
+    "final": ["**Berger**"]
+},
+{
+    "questions": "*Tous les jours j'veux plus dans les poches*",
+    "answers": ["berger"],
+    "final": ["**Berger**"]
+},
+{
+    "questions": "*10 ans plus tard j'ai relancé j'ai tout vu*",
+    "answers": ["berger"],
+    "final": ["**Berger**"]
+},
+{
+    "questions": "*Les microbes distribuent comme à La Poste*",
+    "answers": ["berger"],
+    "final": ["**Berger**"]
+},
+{
+    "questions": "*Pardon Yemma c'est moi l'plus instable de la porté*",
+    "answers": ["berger"],
+    "final": ["**Berger**"]
+},
+{
+    "questions": "*La balle peut drop dans tous les centres*",
+    "answers": ["berger"],
+    "final": ["**Berger**"]
+},
+{
+    "questions": "*On vit la nuit pour mieux voir l'incendie*",
+    "answers": ["lala"],
+    "final": ["**Lala**"]
+},
+{
+    "questions": "*Faut qu'l'ciel qui est bleu remplace le gris, temps passe faut qu'j'fasse le tri*",
+    "answers": ["lala"],
+    "final": ["**Lala**"]
+},
+{
+    "questions": "*Elle dit qu'ça va sans dire, ma plus grosse dépendance c'était toi*",
+    "answers": ["lala"],
+    "final": ["**Lala**"]
+},
+{
+    "questions": "*Moi dedans j'suis comme les zombies, si toi tu sais aimer : c'est quoi ?*",
+    "answers": ["lala"],
+    "final": ["**Lala**"]
+},
+{
+    "questions": "*On fera pas l'tour de la Terre, je coule je me noie c'est l'enfer*",
+    "answers": ["lala"],
+    "final": ["**Lala**"]
+},
+{
+    "questions": "*La patrouille allume la ville, Tsuki pour la vie*",
+    "answers": ["lala"],
+    "final": ["**Lala**"]
+},
+{
+    "questions": "*Le diable il s'habille en Fendi*",
+    "answers": ["kimono"],
+    "final": ["**Kimono**"]
+},
+{
+    "questions": "*Elle danse sur ma queue mais c'est pas grave*",
+    "answers": ["kimono"],
+    "final": ["**Kimono**"]
+},
+{
+    "questions": "*Regarde sur mes nike c'est des cadavres*",
+    "answers": ["kimono"],
+    "final": ["**Kimono**"]
+},
+{
+    "questions": "*Mais qui est-ce qui va le faire, c'est chaud donc j'abats le fer*",
+    "answers": ["kimono"],
+    "final": ["**Kimono**"]
+},
+{
+    "questions": "*0 bouée tous les marins couchés*",
+    "answers": ["kimono"],
+    "final": ["**Kimono**"]
+},
+{
+    "questions": "*Le vrai visage de l'homme c'est pas des lol*",
+    "answers": ["kimono"],
+    "final": ["**Kimono**"]
+},
+{
+    "questions": "*Viens voir nos vies, y a plusieurs têtes que j'ai du ghoster*",
+    "answers": ["loup"],
+    "final": ["**Loup**"]
+},
+{
+    "questions": "*J'avais pas vu qu'la Lune éclairait ses pas quand elle dansait*",
+    "answers": ["loup"],
+    "final": ["**Loup**"]
+},
+{
+    "questions": "*J'ai grandi, j'ai pris un peu d'bouteille, et tous tes potes, ils deviennent quoi ?*",
+    "answers": ["loup"],
+    "final": ["**Loup**"]
+},
+{
+    "questions": "*J'ai des blessures à la profondeur semblable à là où tu peux plus nager*",
+    "answers": ["loup"],
+    "final": ["**Loup**"]
+},
+{
+    "questions": "*J'ai compté, recompté mes pas dans la, j'aurais voulu mais j'peux pas tout t'dire*",
+    "answers": ["loup"],
+    "final": ["**Loup**"]
+},
+{
+    "questions": "*J'ai pas souri quand t'étais blessée*",
+    "answers": ["loup"],
+    "final": ["**Loup**"]
+},
+{
+    "questions": "*J'roule un J, j'suis dans l'flou*",
+    "answers": ["aquilon"],
+    "final": ["**Aquilon**"]
+},
+{
+    "questions": "*Toute l'année j'suis dans l'ombre*",
+    "answers": ["aquilon"],
+    "final": ["**Aquilon**"]
+},
+{
+    "questions": "*J'laisse aucune trace j'suis nia*",
+    "answers": ["aquilon"],
+    "final": ["**Aquilon**"]
+},
+{
+    "questions": "*J'suis plus dans l'temps, j'repère les proies à la loupe*",
+    "answers": ["aquilon"],
+    "final": ["**Aquilon**"]
+},
+{
+    "questions": "*Y avait personne quand il fallait chasser pour manger*",
+    "answers": ["aquilon"],
+    "final": ["**Aquilon**"]
+},
+{
+    "questions": "*Eux c'est des requins qui nous on appris à nager*",
+    "answers": ["aquilon"],
+    "final": ["**Aquilon**"]
+},
+{
+    "questions": "*Ok, donc là c'est réel, faut qu'j'rentabilise mes rayures*",
+    "answers": ["kirivillage"],
+    "final": ["**Kiri Village**"]
+},
+{
+    "questions": "*Mais là j'suis khapta, un délire*",
+    "answers": ["kirivillage"],
+    "final": ["**Kiri Village**"]
+},
+{
+    "questions": "*Tu vis pour les chattes, et tu t'étonnes que la vie t'échappe*",
+    "answers": ["kirivillage"],
+    "final": ["**Kiri Village**"]
+},
+{
+    "questions": "*Elle prend les fleurs, elle prend la coke, j'aime pas les porcs mais partout y en a*",
+    "answers": ["kirivillage"],
+    "final": ["**Kiri Village**"]
+},
+{
+    "questions": "*Maintenant faut mailler, après s'en aller*",
+    "answers": ["kirivillage"],
+    "final": ["**Kiri Village**"]
+},
+{
+    "questions": "*J'préfère être riche que être guéri*",
+    "answers": ["kirivillage"],
+    "final": ["**Kiri Village**"]
+},
+{
+    "questions": "*Aussi loin qu'j'me souviens, j'pourrais visser même à Surgères*",
+    "answers": ["laruche"],
+    "final": ["**La ruche**"]
+},
+{
+    "questions": "*2Pac, Zizou, Molière, les romans, je fuis c'qui n'a pas commencé*",
+    "answers": ["laruche"],
+    "final": ["**La ruche**"]
+},
+{
+    "questions": "*J'ai vu cinquante royaumes, des mots non-prononcés*",
+    "answers": ["laruche"],
+    "final": ["**La ruche**"]
+},
+{
+    "questions": "*J'faisais d'jà cette merde en sixième*",
+    "answers": ["laruche"],
+    "final": ["**La ruche**"]
+},
+{
+    "questions": "*Gros, t'es pas dans ma tête, tu sais pas comment c'est*",
+    "answers": ["laruche"],
+    "final": ["**La ruche**"]
+},
+{
+    "questions": "*J'ai mis l'alcool dosé, ils peuvent tout condenser*",
+    "answers": ["laruche"],
+    "final": ["**La ruche**"]
+},
+{
+    "questions": "*Tu parles de calibre mais t'as jamais visé*",
+    "answers": ["tsusky"],
+    "final": ["**Tsusky**"]
+},
+{
+    "questions": "*J'méchappe dehors, gros viens voir la vie d'en bas*",
+    "answers": ["tsusky"],
+    "final": ["**Tsusky**"]
+},
+{
+    "questions": "*Ils nous voyaient perdant dès l'début*",
+    "answers": ["tsusky"],
+    "final": ["**Tsusky**"]
+},
+{
+    "questions": "*Reviens de là on va fuir la ville, oh*",
+    "answers": ["tsusky"],
+    "final": ["**Tsusky**"]
+},
+{
+    "questions": "*Fons-car de taré, j'arrache la ville toute la soirée*",
+    "answers": ["tsusky"],
+    "final": ["**Tsusky**"]
+},
+{
+    "questions": "*Parlez, j'en ressors un tu captes*",
+    "answers": ["tsusky"],
+    "final": ["**Tsusky**"]
+},
+{
+    "questions": "*Les p'tits craquent dans la ville*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*Ok moi aussi j'ai voulu la belle vie*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*Moi j'aime quand c'est vrai, quand ça brasse*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*Arai son âme quitte son corps en moins de trente secondes*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*J'fais des couplets c'est d'la zipette*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*Fait tourner le J, quand j'aurai le J.E.T, tu seras bien*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*Fait tourner le J, quand j'aurai le J.E.T, tu seras bien*",
+    "answers": ["lenomdufilm"],
+    "final": ["**Le nom du film**"]
+},
+{
+    "questions": "*On t'enterrera seul, nana*",
+    "answers": ["katrina"],
+    "final": ["**Katrina**"]
+},
+{
+    "questions": "*C'est l'histoire d'un putain d'pirate, beaucoup d'ennemis vu le butin qu'il ramène*",
+    "answers": ["katrina"],
+    "final": ["**Katrina**"]
+},
+{
+    "questions": "*Sur sa peau y'a des écailles (poisson)*",
+    "answers": ["katrina"],
+    "final": ["**Katrina**"]
+},
+{
+    "questions": "*Faut beaucoup de blé, quand les plans sont plus soudés*",
+    "answers": ["katrina"],
+    "final": ["**Katrina**"]
+},
+{
+    "questions": "*Ce sera comme nous on faut qu'faut faire, s'en bat tellement les couilles d'leur plaire*",
+    "answers": ["katrina"],
+    "final": ["**Katrina**"]
+},
+{
+    "questions": "*On repartira pas sans notre part, en deux mois on descend 109 teilles*",
+    "answers": ["katrina"],
+    "final": ["**Katrina**"]
+},
+{
+    "questions": "*J'lis les BD sur la Moncler*",
+    "answers": ["etoilenoire"],
+    "final": ["**Etoile noire**"]
+},
+{
+    "questions": "*Tu m'as vu dans l'ciel Pégase j'suis comme Seya*",
+    "answers": ["etoilenoire"],
+    "final": ["**Etoile noire**"]
+},
+{
+    "questions": "*J'pull-up dans le château, j'fais l'roi*",
+    "answers": ["etoilenoire"],
+    "final": ["**Etoile noire**"]
+},
+{
+    "questions": "*Ils ont fait sombrer la ville dans l'opium*",
+    "answers": ["etoilenoire"],
+    "final": ["**Etoile noire**"]
+},
+{
+    "questions": "*On vit sur deux mondes différents, ah bah gros*",
+    "answers": ["etoilenoire"],
+    "final": ["**Etoile noire**"]
+},
+{
+    "questions": "*J'étais synchro, dans les temps*",
+    "answers": ["etoilenoire"],
+    "final": ["**Etoile noire**"]
+},
+{
+    "questions": "*Fake love j'ai vu, jusqu'à l'aube j'ai bu*",
+    "answers": ["lendemains"],
+    "final": ["**Lendemains**"]
+},
+{
+    "questions": "*J'suis l'même avec des rêves en moins*",
+    "answers": ["lendemains"],
+    "final": ["**Lendemains**"]
+},
+{
+    "questions": "*Finie l'époque où j'ridais près du point d'retour*",
+    "answers": ["lendemains"],
+    "final": ["**Lendemains**"]
+},
+{
+    "questions": "*J'réside à Gotham, elle m'dit qu'elle habite vers les gobelins*",
+    "answers": ["lendemains"],
+    "final": ["**Lendemains**"]
+},
+{
+    "questions": "*Plus j'suis haut, moins j'entends c'qu'ils disent*",
+    "answers": ["lendemains"],
+    "final": ["**Lendemains**"]
+},
+{
+    "questions": "*Ces larmes coulent tant, coulent tant*",
+    "answers": ["lendemains"],
+    "final": ["**Lendemains**"]
+},
+{
+    "questions": "*Lala c'est fini je t'aime plus. C'est tout c'que j'te souhaite*",
+    "answers": ["symptomes"],
+    "final": ["**Symptomes**"]
+},
+{
+    "questions": "*Tout pour l'nectar, le cheddar*",
+    "answers": ["symptomes"],
+    "final": ["**Symptomes**"]
+},
+{
+    "questions": "*Toute l'année avec malheur on se balade, balade*",
+    "answers": ["symptomes"],
+    "final": ["**Symptomes**"]
+},
+{
+    "questions": "*Je suis Rue des autres là où ça devient salasse*",
+    "answers": ["symptomes"],
+    "final": ["**Symptomes**"]
+},
+{
+    "questions": "*Tout le monde sait, l'prochain c'est qui ?*",
+    "answers": ["symptomes"],
+    "final": ["**Symptomes**"]
+},
+{
+    "questions": "*J'suis au bon-char sous pil-grand*",
+    "answers": ["symptomes"],
+    "final": ["**Symptomes**"]
+},
+{
+    "questions": "*Mais moi j'suis une galère*",
+    "answers": ["virementinstantanne"],
+    "final": ["**Virement instantanné**"]
+},
+{
+    "questions": "*Trop faim d'sous, même si l'plan a foiré on r'tente*",
+    "answers": ["virementinstantanne"],
+    "final": ["**Virement instantanné**"]
+},
+{
+    "questions": "*Mais la go elle suce pour du Balanciaga*",
+    "answers": ["virementinstantanne"],
+    "final": ["**Virement instantanné**"]
+},
+{
+    "questions": "*Mais demain c'est si long, On attend quoi ? Fuyons*",
+    "answers": ["virementinstantanne"],
+    "final": ["**Virement instantanné**"]
+},
+{
+    "questions": "*Trop de grammes parce que beaucoup de drames*",
+    "answers": ["virementinstantanne"],
+    "final": ["**Virement instantanné**"]
+},
+{
+    "questions": "*Mais j'connais trop les dames pour qu'j'l'appelle baby*",
+    "answers": ["virementinstantanne"],
+    "final": ["**Virement instantanné**"]
+},
+{
+    "questions": "*Ils ont dit noir c'est noir, t'es Sonic j'suis Shadow*",
+    "answers": ["intraveineuse"],
+    "final": ["**Intraveineuse**"]
+},
+{
+    "questions": "*Boire la concu' comme du Pago (Pago) Les faire descendre de leur sabots*",
+    "answers": ["intraveineuse"],
+    "final": ["**Intraveineuse**"]
+},
+{
+    "questions": "*On sourit tout l'temps mais c'est pas drôle*",
+    "answers": ["intraveineuse"],
+    "final": ["**Intraveineuse**"]
+},
+{
+    "questions": "*C'est la plus technique des nanas, Elle fait after dans des manoirs*",
+    "answers": ["intraveineuse"],
+    "final": ["**Intraveineuse**"]
+},
+{
+    "questions": "*J'y vois clair même quand c'est noir*",
+    "answers": ["intraveineuse"],
+    "final": ["**Intraveineuse**"]
+},
+{
+    "questions": "*Si t'y vas pas j'y vais pas, c'est mort*",
+    "answers": ["intraveineuse"],
+    "final": ["**Intraveineuse**"]
+},
+{
+    "questions": "*Billy, Billy (han) Le ciel nous bénit*",
+    "answers": ["papilune"],
+    "final": ["**Papilune**"]
+},
+{
+    "questions": "*Regarde par l'balcon J'suis sur un dragon*",
+    "answers": ["papilune"],
+    "final": ["**Papilune**"]
+},
+{
+    "questions": "*Main sur l'guidon, j'm'arrête que si j'vois le trésor*",
+    "answers": ["papilune"],
+    "final": ["**Papilune**"]
+},
+{
+    "questions": "*J'roule le bison, j'suis dans la ville j'me sens vivant*",
+    "answers": ["papilune"],
+    "final": ["**Papilune**"]
+},
+{
+    "questions": "*Dans mon bigo, j'ai d'quoi mettre à l'abri tout l'monde*",
+    "answers": ["papilune"],
+    "final": ["**Papilune**"]
+},
+{
+    "questions": "*Nous toujours au fourneau, Mais c'est les proies qui saignent*",
+    "answers": ["papilune"],
+    "final": ["**Papilune**"]
+},
+{
+    "questions": "*C'est la partie du film où on capte qu'ils sont pas méchants*",
+    "answers": ["pandemie"],
+    "final": ["**Pandémie**"]
+},
+{
+    "questions": "*Chaque jour : un problème naissant, oh-oh-oh*",
+    "answers": ["pandemie"],
+    "final": ["**Pandémie**"]
+},
+{
+    "questions": "*Change de sphère, dégage ton parasite, j'veux pas d'tes malabars*",
+    "answers": ["pandemie"],
+    "final": ["**Pandémie**"]
+},
+{
+    "questions": "*So t'attend, ouais, je pense à ma vie, que je pense à mama, ouais, je tremble, je tremble*",
+    "answers": ["pandemie"],
+    "final": ["**Pandémie**"]
+},
+{
+    "questions": "*J'suis dans ma bulle, j'manque d'air mais j'souris*",
+    "answers": ["pandemie"],
+    "final": ["**Pandémie**"]
+},
+{
+    "questions": "*Paraît qu'il est plus beau l'ciel vu du sommet*",
+    "answers": ["pandemie"],
+    "final": ["**Pandémie**"]
+},
+{
+    "questions": "*J'marche même abîmé, faut qu'seille-o m'rétablit*",
+    "answers": ["lefilm"],
+    "final": ["**Le film**"]
+},
+{
+    "questions": "*Tu sais c'qu'on dit, n'est-ce pas ? Y a certaines blessures qui guérissent (pas)*",
+    "answers": ["lefilm"],
+    "final": ["**Le film**"]
+},
+{
+    "questions": "*Quand s'ra chaud, qui restera ? (Oh, oh) Dans ma gourde, y a mille espoirs (Oh-oh)*",
+    "answers": ["lefilm"],
+    "final": ["**Le film**"]
+},
+{
+    "questions": "*J'aime bien les sous parce que c'est révélateur*",
+    "answers": ["lefilm"],
+    "final": ["**Le film**"]
+},
+{
+    "questions": "*So, c'est comment ?, j'sais pas, j'sors de chez moi, c'est la psychiatrie*",
+    "answers": ["lefilm"],
+    "final": ["**Le film**"]
+},
+{
+    "questions": "*Tu parles beaucoup d'métal mais dure la guerre quand t'es en négatif*",
+    "answers": ["lefilm"],
+    "final": ["**Le film**"]
+},
+{
+    "questions": "*On fait voir les choses en grand, arrêtons donc les faux semblants*",
+    "answers": ["sourirefantome"],
+    "final": ["**Sourire fantôme**"]
+},
+{
+    "questions": "*La lune, la lune survit mais, demain j'arrête, c'est comment ?*",
+    "answers": ["sourirefantome"],
+    "final": ["**Sourire fantôme**"]
+},
+{
+    "questions": "*Match, j'marque comme trente buteurs mais mademoiselle tremble du cœur*",
+    "answers": ["sourirefantome"],
+    "final": ["**Sourire fantôme**"]
+},
+{
+    "questions": "*J'prépare le feu, j'vais brûler l'village, restera qu'un ange (Qu'un ange)*",
+    "answers": ["sourirefantome"],
+    "final": ["**Sourire fantôme**"]
+},
+{
+    "questions": "*Maman m'a dit : Vagabonde pas le soir, frère, ils vont jamais remonter le score, oh-oh (J'fais l'tour)*",
+    "answers": ["sourirefantome"],
+    "final": ["**Sourire fantôme**"]
+},
+{
+    "questions": "*L'aiguille tourne, on perd du temps, tu veux pas qu'on t'enterre du con*",
+    "answers": ["sourirefantome"],
+    "final": ["**Sourire fantôme**"]
+},
+{
+    "questions": "*Hey, dans l'bat y'a beaucoup d'zombies, j'pense qu'à remplir le frigo (frigo)*",
+    "answers": ["albator"],
+    "final": ["**Albator**"]
+},
+{
+    "questions": "*Quitter la rue, mais on y laissera un peu de nous (tu l'sais non)*",
+    "answers": ["albator"],
+    "final": ["**Albator**"]
+},
+{
+    "questions": "*Lame sous l'béret tah Peaky, la suite j'verrai c'est Tsuki (ouais)*",
+    "answers": ["albator"],
+    "final": ["**Albator**"]
+},
+{
+    "questions": "*Les jours s'répètent, la routine (ah), alcool, sexe, drogue et broutilles (ah)*",
+    "answers": ["albator"],
+    "final": ["**Albator**"]
+},
+{
+    "questions": "*À la fin, y'a un mort, Gladiateur (han), fleurs du mal, l'autre côté, Anakin (ouais allô)*",
+    "answers": ["albator"],
+    "final": ["**Albator**"]
+},
+{
+    "questions": "*Papa est stressé, il vieillit mal, faut qu'j'l'envoie aux Caïmans*",
+    "answers": ["albator"],
+    "final": ["**Albator**"]
+},
+{
+    "questions": "*Et comme Cassius ça tourne pas rond*",
+    "answers": ["chemindevie"],
+    "final": ["**Chemin de vie**"]
+},
+{
+    "questions": "*J'les écoute pas quand ils moralisent, je roule un teuh, celui qui neutralise*",
+    "answers": ["chemindevie"],
+    "final": ["**Chemin de vie**"]
+},
+{
+    "questions": "*J'vois plus les démons, les anges et les humains*",
+    "answers": ["chemindevie"],
+    "final": ["**Chemin de vie**"]
+},
+{
+    "questions": "*Elle est plus très jeune donc j'ai peur de demain*",
+    "answers": ["chemindevie"],
+    "final": ["**Chemin de vie**"]
+},
+{
+    "questions": "*J'me demande pas si c'est une salope, j'me demande c'est une salope de quel genre*",
+    "answers": ["chemindevie"],
+    "final": ["**Chemin de vie**"]
+},
+{
+    "questions": "*Mon verre se vide, j'vois plus les gens, encore une nuit sur ris-pa*",
+    "answers": ["chemindevie"],
+    "final": ["**Chemin de vie**"]
+},
+{
+    "questions": "*J'suis c'qu'ils appellent un produit d'en bas qui pine (yeah)*",
+    "answers": ["tsukinami"],
+    "final": ["**Tsukinami**"]
+},
+{
+    "questions": "*60 soleils, 40 étoiles (hmm), ça veut vivre dans 40 hectares (oui)*",
+    "answers": ["tsukinami"],
+    "final": ["**Tsukinami**"]
+},
+{
+    "questions": "*Si on finit premier c'est chaud, on était vraiment les derniers (les derniers)*",
+    "answers": ["tsukinami"],
+    "final": ["**Tsukinami**"]
+},
+{
+    "questions": "*Elle cambre tellement bien qu'j'ai l'impression que son boule il lévite (nana)*",
+    "answers": ["tsukinami"],
+    "final": ["**Tsukinami**"]
+},
+{
+    "questions": "*Demain peut-être sera plus paisible, j'aurai p't'être ma maison au Brésil*",
+    "answers": ["tsukinami"],
+    "final": ["**Tsukinami**"]
+},
+{
+    "questions": "*Ils mentent quand ils disent que j'suis un mauvais garçon, mais j'veux des sous, des sous, des sous*",
+    "answers": ["tsukinami"],
+    "final": ["**Tsukinami**"]
+},
+{
+    "questions": "*Paternité j'veux bien dès qu'tu m'diras il est à qui (han, sorcier)*",
+    "answers": ["soleilmourant"],
+    "final": ["**Soleil mourant**"]
+},
+{
+    "questions": "*C'est le démon dans l'armoire, on finira dans un manoir*",
+    "answers": ["soleilmourant"],
+    "final": ["**Soleil mourant**"]
+},
+{
+    "questions": "*Et comme p't-êt' j'vais l'faire (hmm), bah la tête j'vais l'faire (hmm)*",
+    "answers": ["soleilmourant"],
+    "final": ["**Soleil mourant**"]
+},
+{
+    "questions": "*Ils ont vu que j'peux drop un EP par s'maine et y en a cinquante-deux par an, ça les a calmé*",
+    "answers": ["soleilmourant"],
+    "final": ["**Soleil mourant**"]
+},
+{
+    "questions": "*Compter, recompter puis compter des bitch, tu l'as vu dans ton 4K, nous on vit ici*",
+    "answers": ["soleilmourant"],
+    "final": ["**Soleil mourant**"]
+},
+{
+    "questions": "*J'consomme le teh seul, j'me remets des pertes seul, tu meurs on t'enterre seul, Silva comme Anderson*",
+    "answers": ["soleilmourant"],
+    "final": ["**Soleil mourant**"]
+},
+{
+    "questions": "*Et la lune se reflète sur l'eau qui dort, j'suis à Rotter*",
+    "answers": ["finheureuse"],
+    "final": ["**Fin heureuse**"]
+},
+{
+    "questions": "*J'irai là où on peut plus nager (Oh), près d'la noyade (C'est noir)*",
+    "answers": ["finheureuse"],
+    "final": ["**Fin heureuse**"]
+},
+{
+    "questions": "*Elle m'dit : Tsuki, j'aime trop quand tu glisses sur le vent*",
+    "answers": ["finheureuse"],
+    "final": ["**Fin heureuse**"]
+},
+{
+    "questions": "*J'ai beaucoup d'absences, j'sais pas c'qui m'arrive (Han)*",
+    "answers": ["finheureuse"],
+    "final": ["**Fin heureuse**"]
+},
+{
+    "questions": "*C'est plus l'destin quand ils viennent te pull-up dans la noche*",
+    "answers": ["finheureuse"],
+    "final": ["**Fin heureuse**"]
+},
+{
+    "questions": "*On en a fait du chemin, j'peux t'en mettre quatre dans les additionnelles*",
+    "answers": ["finheureuse"],
+    "final": ["**Fin heureuse**"]
+},
+{
+    "questions": "*C'est le terrain des loups, marche pas dans l'noir*",
+    "answers": ["medellin"],
+    "final": ["**Medellin**"]
+},
+{
+    "questions": "*Quand j'arrive dans la pièce, j'suis gazé*",
+    "answers": ["medellin"],
+    "final": ["**Medellin**"]
+},
+{
+    "questions": "*Ta mère le rookie il baise tout cette année*",
+    "answers": ["medellin"],
+    "final": ["**Medellin**"]
+},
+{
+    "questions": "*J'suis dans le labyrinthe, c'est déjà ça, y a peu j'étais dans la spirale*",
+    "answers": ["medellin"],
+    "final": ["**Medellin**"]
+},
+{
+    "questions": "*C'est nous on braque le monde et on chante nanana*",
+    "answers": ["medellin"],
+    "final": ["**Medellin**"]
+},
+{
+    "questions": "*Bientôt j'les bibi dans un livre, ou dans un musée ou dans un movie*",
+    "answers": ["medellin"],
+    "final": ["**Medellin**"]
+},
+{
+    "questions": "*J'vais fuir comme Ging, fallait qu'on dîne, j'ai deux trois combines*",
+    "answers": ["rangero"],
+    "final": ["**Range Ro**"]
+},
+{
+    "questions": "*C'est Tsuki l'Odyssée, la mère au commissaire*",
+    "answers": ["rangero"],
+    "final": ["**Range Ro**"]
+},
+{
+    "questions": "*Rien a bouger, j'roule que des effets directs (hein)*",
+    "answers": ["rangero"],
+    "final": ["**Range Ro**"]
+},
+{
+    "questions": "*Le démon c'est l'humain, le remède c'est le temps*",
+    "answers": ["rangero"],
+    "final": ["**Range Ro**"]
+},
+{
+    "questions": "*J'ai fait le stup ouais j'ai jamais fait Sciences Po*",
+    "answers": ["rangero"],
+    "final": ["**Range Ro**"]
+},
+{
+    "questions": "*J'peux drop un pas mixé*",
+    "answers": ["rangero"],
+    "final": ["**Range Ro**"]
+},
+{
+    "questions": "*Y en a plein qui s'sont rangés, d'autres coupent le 100G d'Tanger*",
+    "answers": ["guerison"],
+    "final": ["**Guérison**"]
+},
+{
+    "questions": "*Remplir le panier, j'le fais c'était pas gagné (ouais)*",
+    "answers": ["guerison"],
+    "final": ["**Guérison**"]
+},
+{
+    "questions": "*C'est pas moi le sauveur c'est clair (hey), marre de demain j'préfère quand c'est calme (hmm)*",
+    "answers": ["guerison"],
+    "final": ["**Guérison**"]
+},
+{
+    "questions": "*Donaflow m'a dit sort moi des beaux couplets (yeah)*",
+    "answers": ["guerison"],
+    "final": ["**Guérison**"]
+},
+{
+    "questions": "*J'suis sur Paris, au poste nous on dit pas les noms*",
+    "answers": ["guerison"],
+    "final": ["**Guérison**"]
+},
+{
+    "questions": "*C'est toi l'faux, n'inverse pas les rôles*",
+    "answers": ["guerison"],
+    "final": ["**Guérison**"]
+},
+{
+    "questions": "*La limite c'est quand tu peux plus faire rentrer*",
+    "answers": ["enbas"],
+    "final": ["**En bas**"]
+},
+{
+    "questions": "*Ton bras mon bras, ils croient c'est s'mettre une balle dans l'pied*",
+    "answers": ["enbas"],
+    "final": ["**En bas**"]
+},
+{
+    "questions": "*Hier mon reuf l'ancien il la vendait tous les jours, moi là, j'la fume tous les jours*",
+    "answers": ["enbas"],
+    "final": ["**En bas**"]
+},
+{
+    "questions": "*Ah bon toi tu veux briller ? (ouais) Dis-le (ok)*",
+    "answers": ["enbas"],
+    "final": ["**En bas**"]
+},
+{
+    "questions": "*Et j'ai mal, en moi j'ressens tout donc j'm'en veux qu'à moi même*",
+    "answers": ["enbas"],
+    "final": ["**En bas**"]
+},
+{
+    "questions": "*C'est l'histoire d'un loup en chien, qui boit dans un gouffre sans fin*",
+    "answers": ["enbas"],
+    "final": ["**En bas**"]
+},
+{
+    "questions": "*Plus de liquide, j'veux pouvoir remplir 1000 carafes*",
+    "answers": ["vide"],
+    "final": ["**Vide**"]
+},
+{
+    "questions": "*Parce que les p'tits ils débitent comme chez Zalando*",
+    "answers": ["vide"],
+    "final": ["**Vide**"]
+},
+{
+    "questions": "*J'roule un J, j'ai déjà plus rien à donner (ouais allô)*",
+    "answers": ["vide"],
+    "final": ["**Vide**"]
+},
+{
+    "questions": "*J'peux pas rentrer tant que mes démons s'agrippent*",
+    "answers": ["vide"],
+    "final": ["**Vide**"]
+},
+{
+    "questions": "*Maintenant tu dis le prochain c'est Tsuki lala (J'suis dans l'tunnel et j'me sens comme Diana)*",
+    "answers": ["vide"],
+    "final": ["**Vide**"]
+},
+{
+    "questions": "*Encore un jeune d'en bas qui s'est pommé*",
+    "answers": ["vide"],
+    "final": ["**Vide**"]
+},
+{
+    "questions": "*C'est comme si j'm'étais attaché au malheur tellement j'ai mal*",
+    "answers": ["dona"],
+    "final": ["**Dona**"]
+},
+{
+    "questions": "*On redrop ils crient au génie (ah)*",
+    "answers": ["dona"],
+    "final": ["**Dona**"]
+},
+{
+    "questions": "*C'est des acteurs tah Allociné (ouais)*",
+    "answers": ["dona"],
+    "final": ["**Dona**"]
+},
+{
+    "questions": "*L'ange me dit qu'ça s'passe dans l'coeur, les voix m'disent ça s'passe dans l'teum*",
+    "answers": ["dona"],
+    "final": ["**Dona**"]
+},
+{
+    "questions": "*Sa mère j'pense à mon putain d'Prada pendant qu'ils allument des gosses à Gaza*",
+    "answers": ["dona"],
+    "final": ["**Dona**"]
+},
+{
+    "questions": "*J'lui écrirai que dès l'réveil c'est elle lumière où es-tu ? Ici ça devient trop noir*",
+    "answers": ["dona"],
+    "final": ["**Dona**"]
+},
+{
+    "questions": "*Y a peu d'choses qui tiennent chez moi, j'suis paranoïaque la putain d'ses morts*",
+    "answers": ["eternelle2", "eternelledeux"],
+    "final": ["**Eternelle 2**"]
+},
+{
+    "questions": "*L'alarme a pas sonné, elle doit m'haïr j'l'ai pas volé, ouais*",
+    "answers": ["eternelle2", "eternelledeux"],
+    "final": ["**Eternelle 2**"]
+},
+{
+    "questions": "*Elle dit que j'l'ai jamais aimé, si seulement tu savais.*",
+    "answers": ["eternelle2", "eternelledeux"],
+    "final": ["**Eternelle 2**"]
+},
+{
+    "questions": "*Les reins solides, heureusement vu les teilles que j'descends*",
+    "answers": ["eternelle2", "eternelledeux"],
+    "final": ["**Eternelle 2**"]
+},
+{
+    "questions": "*Encore une notif où quand j'guette c'est pas toi*",
+    "answers": ["eternelle2", "eternelledeux"],
+    "final": ["**Eternelle 2**"]
+},
+{
+    "questions": "*Du mal à accepter qu'c'est avec un autre que tu penseras par deux*",
+    "answers": ["eternelle2", "eternelledeux"],
+    "final": ["**Eternelle 2**"]
+},
+{
+    "questions": "*Il est minuit pile et j'ai déjà relance trois fois*",
+    "answers": ["deconnecte"],
+    "final": ["**Déconnecté**"]
+},
+{
+    "questions": "*J'crois qu'j'l'aime vraiment bien, faut qu'j'lui dise qu'j'suis un bâtard*",
+    "answers": ["deconnecte"],
+    "final": ["**Déconnecté**"]
+},
+{
+    "questions": "*Mes plaies guérissent pas, elle grandissent, c'est insensé*",
+    "answers": ["deconnecte"],
+    "final": ["**Déconnecté**"]
+},
+{
+    "questions": "*La yeurk vrillait: allô madame, votre fils est encore viré*",
+    "answers": ["deconnecte"],
+    "final": ["**Déconnecté**"]
+},
+{
+    "questions": "*Deux couilles, deux jambes, trois ongles, quatre ongles, rien qu'j'me bats contre mes démons*",
+    "answers": ["deconnecte"],
+    "final": ["**Déconnecté**"]
+},
+{
+    "questions": "*Tous les plans go, j'ai trop la dalle*",
+    "answers": ["deconnecte"],
+    "final": ["**Déconnecté**"]
+},
+{
+    "questions": "*Dormir, pas tant qu'j'rentre pas plein d'millions*",
+    "answers": ["2i"],
+    "final": ["**2i**"]
+},
+{
+    "questions": "*J'entends l'ombre dire, Gros go les ténèbres*",
+    "answers": ["2i"],
+    "final": ["**2i**"]
+},
+{
+    "questions": "*Mais l'ancien m'a dit: Si j'devais te parler d'espoir ce serait trop long*",
+    "answers": ["2i"],
+    "final": ["**2i**"]
+},
+{
+    "questions": "*J'en vois que 10 de vrais s'ils sont 10 000 (yeah)*",
+    "answers": ["2i"],
+    "final": ["**2i**"]
+},
+{
+    "questions": "*Ma haine l'emporte sur tout, ah ouais*",
+    "answers": ["2i"],
+    "final": ["**2i**"]
+},
+{
+    "questions": "*Les gens qui pensent comme la masse (ah ouais), ce soir j'les vois en 2D*",
+    "answers": ["2i"],
+    "final": ["**2i**"]
+},
+{
+    "questions": "*Un jour, j'aurais plus rien à dire, la vida a plus trop d'odeur*",
+    "answers": ["nouveauxpirates"],
+    "final": ["**Nouveaux Pirates**"]
+},
+{
+    "questions": "*Y a des frères qui ont pris +4, c'est le UNO*",
+    "answers": ["nouveauxpirates"],
+    "final": ["**Nouveaux Pirates**"]
+},
+{
+    "questions": "*Le pilon abime mes poumons, c'est soit nous courons, c'est soit nous coulons*",
+    "answers": ["nouveauxpirates"],
+    "final": ["**Nouveaux Pirates**"]
+},
+{
+    "questions": "*Quand j'vois plus rien, j'm'allume devant la Lune*",
+    "answers": ["nouveauxpirates"],
+    "final": ["**Nouveaux Pirates**"]
+},
+{
+    "questions": "*Mais moi, j'suis comme toi : quand j'suis khapta, j'l'appelle bébé*",
+    "answers": ["nouveauxpirates"],
+    "final": ["**Nouveaux Pirates**"]
+},
+{
+    "questions": "*C'est tout pour le cash, faire les euros avant qu'l'avion s'crache*",
+    "answers": ["nouveauxpirates"],
+    "final": ["**Nouveaux Pirates**"]
+},
+{
+    "questions": "*Encore un rappeur qui s'fait canarder (ouais), c'est chaud, j'ai pas la tête à ça*",
+    "answers": ["nicki"],
+    "final": ["**Nicki**"]
+},
+{
+    "questions": "*Décembre-décembre pas d'répit (oh là), ça les tord même en béquilles*",
+    "answers": ["nicki"],
+    "final": ["**Nicki**"]
+},
+{
+    "questions": "*C'est la Lune qui parle à la Terre, c'est l'ennemi qui meurt à la guerre*",
+    "answers": ["nicki"],
+    "final": ["**Nicki**"]
+},
+{
+    "questions": "*C'est à cause de mes vieux démons, on va pas retenir la leçon*",
+    "answers": ["nicki"],
+    "final": ["**Nicki**"]
+},
+{
+    "questions": "*Tsuki apporteur de soluces, c'est l'enfant qui portait la folie*",
+    "answers": ["nicki"],
+    "final": ["**Nicki**"]
+},
+{
+    "questions": "*Mais on veut du Dior et du Vuitton (oh là), mais le monde est si grand*",
+    "answers": ["nicki"],
+    "final": ["**Nicki**"]
+},
+{
+    "questions": "*Dans ses yeux, j'ai vu des promesses (Han-han), je sais, c'est l'jeu mais j'aime pas quand elle pleure*",
+    "answers": ["peche"],
+    "final": ["**Péché**"]
+},
+{
+    "questions": "*J'cuisine ça depuis qu'j'suis gamin (Mmh), j'ai dit à l'équipe : C'est bientôt prêt et chacun s'sert (Ah)*",
+    "answers": ["peche"],
+    "final": ["**Péché**"]
+},
+{
+    "questions": "*Nos rues, c'est gâté, on perdait sur l'papier (Yeah), j'suis bon qu'à gratter ma vie et la rapper*",
+    "answers": ["peche"],
+    "final": ["**Péché**"]
+},
+{
+    "questions": "*Et c'est cette vie, pas une autre (Mmh), elle veut qu'on l'fasse sur du Nelly, Nelly*",
+    "answers": ["peche"],
+    "final": ["**Péché**"]
+},
+{
+    "questions": "*J'en ai pas pour longtemps (Tu connais), les sous, les sous, les sous et après j'quitte la zone (Ouais)*",
+    "answers": ["peche"],
+    "final": ["**Péché**"]
+},
+{
+    "questions": "*J'me couche à l'heure où l'ange déploie ses ailes*",
+    "answers": ["peche"],
+    "final": ["**Péché**"]
+},
+{
+    "questions": "*Hier j'ai parlé à un grand, qui était en train d'parler à un banc*",
+    "answers": ["interlune"],
+    "infal": ["**Interlune**"]
+},
+{
+    "questions": "*J'ai vu maman cacher ses cheveux blancs*",
+    "answers": ["interlune"],
+    "infal": ["**Interlune**"]
+},
+{
+    "questions": "*Les bagarres dans la ville, on a donné*",
+    "answers": ["interlune"],
+    "infal": ["**Interlune**"]
+},
+{
+    "questions": "*J'ai des mauvais échanges avec papa (ah), et j'appelle pas assez la ronne-da*",
+    "answers": ["interlune"],
+    "infal": ["**Interlune**"]
+},
+{
+    "questions": "*J'rappais d'jà mieux qu'eux au CM1 (sorcier)*",
+    "answers": ["interlune"],
+    "infal": ["**Interlune**"]
+},
+{
+    "questions": "*Guette le temps sélectionne les faux, guette ils r'tournent leur veste 32 fois*",
+    "answers": ["interlune"],
+    "infal": ["**Interlune**"]
+},
+{
+    "questions": "*Y a plus personne quand t'es en chien (ça bouge même pas gros)*",
+    "answers": ["outrone"],
+    "final": ["**Outrône**"]
+},
+{
+    "questions": "*On prend pas la drogue qui vient du Panama, woa (sorcier, ouais, sorcier)*",
+    "answers": ["outrone"],
+    "final": ["**Outrône**"]
+},
+{
+    "questions": "*Si y a vraiment un coin loin des hommes, emmenez-moi (ah)*",
+    "answers": ["outrone"],
+    "final": ["**Outrône**"]
+},
+{
+    "questions": "*Ici si t'es lent t'es mort, en ville, il pleut des camés (il pleut)*",
+    "answers": ["outrone"],
+    "final": ["**Outrône**"]
+},
+{
+    "questions": "*En bas d'ma tour, mon nom s'éloigne (ouais), on s'est dit des mots (ouais)*",
+    "answers": ["outrone"],
+    "final": ["**Outrône**"]
+},
+{
+    "questions": "*Allez vas-y concentre toi (ah), t'es parti mais prends soin de toi*",
+    "answers": ["outrone"],
+    "final": ["**Outrône**"]
+},
+{
+    "questions": "*J'écris depuis l'époque E-N-F-A-N-T-S*",
+    "answers": ["tsukimap"]
+},
+{
+    "questions": "*So Thalès, j'suis sous théorème*",
+    "answers": ["tsukimap"]
+},
+{
+    "questions": "*Vision du ciel, ma vie dans un seize mesures*",
+    "answers": ["tsukimap"]
+},
+{
+    "questions": "*Y'a rien qui compte à part la santé (rien qui compte), j'sais pas pourquoi elle t'a enfanté, toi (j'sais pas pourquoi)*",
+    "answers": ["tsukimap"]
+},
+{
+    "questions": "*Ça bouge pas, j'suis avec Adji sur Paris*",
+    "answers": ["tsukimap"]
+},
+{
+    "questions": "*Ils mentent quand ils disent que j'suis un mauvais garçon, mais j'veux des sous, des sous, des sous*",
+    "answers": ["tsukimap"]
+}
+]

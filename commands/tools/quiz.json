@@ -1,0 +1,422 @@
+[
+    {
+        "question": "Quel est le son le plus court de So ?",
+        "reponses": ["diagnostic"],
+        "final": ["Diagnostic"]
+    },
+    {
+        "question": "Quel est le son le plus long de So ?",
+        "reponses": ["balade"],
+        "final": ["Balade"]
+    },
+    {
+        "question": "Quel(s) son()s se termine(nt) par un 'O' ?",
+        "reponses": ["tsukitogepettorangerokimono"],
+        "final": ["Tsukito /", "Gepetto /", "Range Ro /", "Kimono"]
+    },
+    {
+        "question": "Combien de titres (hors exclus) comportent un nombre impair ?",
+        "reponses": ["8"],
+        "final": ["8"]
+    },
+    {
+        "question": "Combien de titres dans Wilma ?",
+        "reponses": ["5"],
+        "final": ["5"]
+    },
+    {
+        "question": "Combien de titres dans Tsuki ?",
+        "reponses": ["11"],
+        "final": ["5"]
+    },
+    {
+        "question": "Quel son porte le nom d'une marque d'alcool ?",
+        "reponses": ["hennessy"],
+        "final": ["Hennessy"]
+    },
+    {
+        "question": "Quel titre comporte le plus de lettres dans son nom ?",
+        "reponses": ["transmissionautomatique"],
+        "final": ["Transmission automatique"]
+    },
+    {
+        "question": "Quel son de So La Lune porte le même titre qu'un son de Naps ?",
+        "reponses": ["elvira"],
+        "final": ["Elvira"]
+    },
+    {
+        "question": "Quel est le titre le plus streamé ?",
+        "reponses": ["rode"],
+        "final": ["Rodé"]
+    },
+    {
+        "question": "Donnez les titres des sons avec Raplume",
+        "reponses": ["raplunetitanic"],
+        "final": ["Raplune et Titanic"]
+    },
+    {
+        "question": "Comment s'appelle le feat avec 99 ?",
+        "reponses": ["preach"],
+        "final": ["Preach"]
+    },
+    {
+        "question": "Combien de couleurs y-a-t-il sur la cover de Wilma ?",
+        "reponses": ["2"],
+        "final": ["2"]
+    },
+    {
+        "question": "Quelles sont les 'failles' parmi les projets de So ?",
+        "reponses": ["lafarsilfrasanandreas", "silfralafarsanadreas", "sanadreaslafarsilfra", "sanandreassilfralafar"],
+        "final": ["L'Afar - Silfra et San Andreas"]
+    },
+    {
+        "question": "Quel est le feat le plus ancien ?",
+        "reponses": ["sirene18"],
+        "final": ["Sirène 18"]
+    },
+    {
+        "question": "Avec quel artiste a-t-il fait le plus de feats ?",
+        "reponses": ["rougecarmin"],
+        "final": ["Rouge Carmin"]
+    },
+    {
+        "question": "Combien de temps dure l'album Fissure de Vie",
+        "reponses": ["46minutes", "46min"],
+        "final": ["46 Minutes"]
+    },
+    {
+        "question": "Quand est sorti Orbite ?",
+        "reponses": ["juin2021", "062021"],
+        "final": ["11 Juin 2021"]
+    },
+    {
+        "question": "En quelle classe a-t-il commencé le rap ?",
+        "reponses": ["cm2"],
+        "final": ["CM2"]
+    },
+    {
+        "question": "Atlantique ou Pacifique ?",
+        "reponses": ["pacifique"],
+        "final": ["Pacifique"]
+    },
+    {
+        "question": "Dans quel projet se trouve Sortilège ?",
+        "reponses": ["2efaillesilfra", "silfra2efaille"],
+        "final": ["2ème faille (Silfra)"]
+    },
+    {
+        "question": "Goût Vanille ou goût chocolat ?",
+        "reponses": ["goutvanille"],
+        "final": ["Goût vanille"]
+    },
+    {
+        "question": "Quelle boisson pour Théia ?",
+        "reponses": ["sevenup", "7up"],
+        "final": ["Seven Up"]
+    },
+    {
+        "question": "Combien de vies dans un son avec Rouge Carmin ?",
+        "reponses": ["deuxvies", "2vies"],
+        "final": ["Deux vies"]
+    },
+    {
+        "question": "Quel EP est sorti le 07 Mai 2021 ?",
+        "reponses": ["satellitenaturel"],
+        "final": ["Satellite Naturel"]
+    },
+    {
+        "question": "Quel numéro porte le Grünt d'Or de So La Lune ?",
+        "reponses": ["29"],
+        "final": ["29"]
+    },
+    {
+        "question": "Quels sont les deux sons qui ont été supprimés ?",
+        "reponses": ["tsukinatrayah09", "yah09tsukinatra"],
+        "final": ["Tsukinatra et Yah09"]
+    },
+    {
+        "question": "Qui est Dona pour So La Lune ?",
+        "reponses": ["manager"],
+        "final": ["Son manager"]
+    },
+    {
+        "question": "Quel est le prénom de Dona ?",
+        "reponses": ["alexis"],
+        "final": ["Alexis"]
+    },
+    {
+        "question": "De quelle ville So La Lune est-il originaire ?",
+        "reponses": ["lyon"],
+        "final": ["Lyon (69)"]
+    },
+    {
+        "question": "Quel beatmaker apparait à deux reprises dans l'album Fissure de Vie ?",
+        "reponses": ["aminefarsi"],
+        "final": ["Amine Farsi"]
+    },
+    {
+        "question": "Quel est le point commun entre Fin Heureuse et Dona ?",
+        "reponses": ["memeduree"],
+        "final": ["Elles ont la même durée"]
+    },
+    {
+        "question": "Quel est le point commun entre Coup d'Eclat et Eternelle ?",
+        "reponses": ["memeduree"],
+        "final": ["Elles ont la même durée"]
+    },
+    {
+        "question": "Quels sons se terminent pas un 'M' ?",
+        "reponses": ["arkhamlefilmlenomdufilmserumpodium"],
+        "final": ["Arkham - Le Film - Le Nom du Film - Serum - Podium"]
+    },
+    {
+        "question": "Combien de sons se terminent par un 'Y' ?",
+        "reponses": ["4"],
+        "final": ["4 : Billy - Lune City - TsuSky - Hennessy"]
+    },
+    {
+        "question": "Quels sons se terminent par un 'U' ?",
+        "reponses": ["kitsuperdu", "perdukitsu"],
+        "final": ["Kitsu et Perdu"]
+    },
+    {
+        "question": "Combien de sons se terminent par un 'N' ?",
+        "reponses": ["8"],
+        "final": ["8 : Mission - Océan - Medellin - Biberon - Quotidien - Guérison - Pression et Anakin"]
+    },
+    {
+        "question": "Qui est le beatmaker de Séquelles ?",
+        "reponses": ["vrsadrip"],
+        "final": ["Vrsa Drip"]
+    },
+    {
+        "question": "Qui a composé Medellin ?",
+        "reponses": ["aminefarsi"],
+        "final": ["Amine Farsi"]
+    },
+    {
+        "question": "Quelles sont les matières préférées de So ? (Titre)",
+        "reponses": ["sportmetaux"],
+        "final": ["Sport + Métaux"]
+    },
+    {
+        "question": "Quel son a le même titre q'un son d'Adèle ?",
+        "reponses": ["skyfall"],
+        "final": ["Skyfall"]
+    },
+    {
+        "question": "Quel son a pour titre le nom d'un animal ?",
+        "reponses": ["loup"],
+        "final": ["Loup"]
+    },
+    {
+        "question": "Quel est le titre du feat avec Rvhim ?",
+        "reponses": ["aquilon"],
+        "final": ["Aquilon"]
+    },
+    {
+        "question": "Combien de temps dure Apollo 11 ?",
+        "reponses": ["13minutes", "13min"],
+        "final": ["13 minutes"]
+    },
+    {
+        "question": "Combien de temps dure Kenna ?",
+        "reponses": ["15minutes", "15min"],
+        "final": ["15 minutes"]
+    },
+    {
+        "question": "Combien de temps dure Wilma ?",
+        "reponses": ["14minutes", "14min"],
+        "final": ["14 minutes"]
+    },
+    {
+        "question": "Combien de temps dure 1ère Faille ?",
+        "reponses": ["14minutes", "14min"],
+        "final": ["14 minutes"]
+    },
+    {
+        "question": "Combien de temps dure 2ème Faille ?",
+        "reponses": ["13minutes", "13min"],
+        "final": ["13 minutes"]
+    },
+    {
+        "question": "Combien de temps dure 3ème Faille ?",
+        "reponses": ["14minutes", "14min"],
+        "final": ["14 minutes"]
+    },
+    {
+        "question": "Combien de temps dure Orbite ?",
+        "reponses": ["14minutes", "14min"],
+        "final": ["14 minutes"]
+    },
+    {
+        "question": "Combien de temps dure Nomades ?",
+        "reponses": ["12minutes", "12min"],
+        "final": ["12 minutes"]
+    },
+    {
+        "question": "Quel est l'EP le plus long ?",
+        "reponses": ["kenna"],
+        "final": ["Kenna"]
+    },
+    {
+        "question": "Quel est l'EP le plus court ?",
+        "reponses": ["270522"],
+        "final": ["27/05/22"]
+    },
+    {
+        "question": "Quel son a pour titre le prénom d'une chanteuse américaine ?",
+        "reponses": ["nicki"],
+        "final": ["Nicki"]
+    },
+    {
+        "question": "Quel est le son le moins streamé ?",
+        "reponses": ["kimono"],
+        "final": ["Kimono"]
+    },
+    {
+        "question": "Abeille 20 ou Abeille 21 ?",
+        "reponses": ["abeille20"],
+        "final": ["Abeille 20"]
+    },
+    {
+        "question": "Quel titre de So est l'antonyme d'une 'infection' ?",
+        "reponses": ["guerison"],
+        "final": ["Guérison"]
+    },
+    {
+        "question": "Quel est le signe astrologique de So La Lune ?",
+        "reponses": ["verseau"],
+        "final": ["Verseau"]
+    },
+    {
+        "question": "Quelle est la planète sur la cover de l'EP Orbite ?",
+        "reponses": ["terre"],
+        "final": ["La Terre"]
+    },
+    {
+        "question": "Quelle est la marque de chaussures sur la cover de Tsuki ?",
+        "reponses": ["nike"],
+        "final": ["Nike"]
+    },
+    {
+        "question": "Avec quels rappeurs So La Lune a-t-il feat 2 fois ?",
+        "reponses": ["Aketo Roshi Zzzucci", "aketo roshi zzzucci", "AKETO ROSHI ZZZUCCI", "aketoroshizzzucci", "AKETOROSHIZZZUCCI", "roshi zzzucci aketo", "zzzucci roshi aketo", "roshi aketo zzzucci", "zzzucci aketo roshi", "captaine roshi aketo zzzucci", "aketo captaine roshi zzzucci", "zzzucci captaine roshi aketo", "zzzucci aketo captaine roshi"],
+        "final": ["Aketo - Captaine Roshi - Zzzucci"]
+    },
+    {
+        "question": "Quel est le titre du feat avec Caballero et JeanJass ?",
+        "reponses": ["beatrice"],
+        "final": ["Béatrice"]
+    },
+    {
+        "question": "Quelle est la couleur principale de 1ère Faille (L'Afar) ?",
+        "reponses": ["rose"],
+        "final": ["Le rose"]
+    },
+    {
+        "question": "Quelle est la couleur principale de 2ème Faille ?",
+        "reponses": ["bleu"],
+        "final": ["Le bleu"]
+    },
+    {
+        "question": "Quelle est la couleur principale de 3ème Faille ?",
+        "reponses": ["vert"],
+        "final": ["Le vert"]
+    },
+    {
+        "question": "Combien d'otages ont pris So La Lune et Elh Kmer ?",
+        "reponses": ["5000", "5k"],
+        "final": ["5 000"]
+    },
+    {
+        "question": "Quel numéro So La Lune a-t-il fait floquer sur son maillot ?",
+        "reponses": ["11"],
+        "final": ["11"]
+    },
+    {
+        "question": "Il est sur le terrain comme ... ?",
+        "reponses": ["dimaria"],
+        "final": ["Di Maria"]
+    },
+    {
+        "question": "Avec quel Youtubeur So La Lune a-t-il feat ?",
+        "reponses": ["mahdiba"],
+        "final": ["Mahdi Ba"]
+    },
+    {
+        "question": "Quels sons ont pour titre une référence au manga Naruto ?",
+        "reponses": ["shinobikirivillage", "kirivillageshinobi"],
+        "final": ["Shinobi et Kiri Village"]
+    },
+    {
+        "question": "Quel est le prénom de So La Lune ?",
+        "reponses": ["elarif"],
+        "final": ["Elarif"]
+    },
+    {
+        "question": "Qui est la personne que So déteste le plus ?",
+        "reponses": ["juge"],
+        "final": ["La juge"]
+    },
+    {
+        "question": "Quel prénom veut-il donner a sa fille ?",
+        "reponses": ["aaliyah"],
+        "final": ["Aaliyah"]
+    },
+    {
+        "question": "Combien coûte la mort ?",
+        "reponses": ["60"],
+        "final": ["*'Ici c'est 60e la mort'*"]
+    },
+    {
+        "question": "Qui a dite de Level up ?",
+        "reponses": ["h", "H", "Ash", "ash"],
+        "final": ["Ash"]
+    },
+    {
+        "question": "Quel beatmaker est présent sur la totalité de l'EP Wilma ?",
+        "reponses": ["vrsadrip"],
+        "final": ["Vrsa Drip"]
+    },
+    {
+        "question": "Quel est le prénom de la personne tenant le compte 'FC So La Lune' ?",
+        "reponses": ["corentin"],
+        "final": ["Corentin"]
+    },
+    {
+        "question": "Si c'est pas de sa faute, c'est la faute de qui ?",
+        "reponses": ["paname"],
+        "final": ["Paname"]
+    },
+    {
+        "question": "Quel son avait un clip sur Youtube tourné autour du manga l'Attaque des Titans, mais a été supprimé plus tard ?",
+        "reponses": ["shinobi"],
+        "final": ["Shinobi"]
+    },
+    {
+        "question": "Quel clip a été tourné uniquement dans une épicerie avec un effet Fisheye ? ( Récemment supprimé )",
+        "reponses": ["fissuredevie23"],
+        "final": ["Fissure de Vie 23"]
+    },
+    {
+        "question": "Dans quel clip supprimé So la lune se trouvait avec ses amis autour d'un barbecue ?",
+        "reponses": ["aqua15"],
+        "final": ["Aqua 15"]
+    },
+    {
+        "question": "Dans quel clip supprimé So la lune se trouvait en compagnie de Rouge Carmin dans un Aquarium ?",
+        "reponses": ["sirene18"],
+        "final": ["Sirène 18"]
+    },
+    {
+        "question": "Dans quel clip supprimé So la lune se trouvait devant un bâtiment avec une forte lumière rouge ?",
+        "reponses": ["yah09"],
+        "final": ["Yah 09"]
+    },
+    {
+        "question": "Toc Toc !C'est qui ?",
+        "reponses": ["cestnous"],
+        "final": ["C'est nous !"]
+    }
+]

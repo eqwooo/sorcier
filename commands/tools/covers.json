@@ -1,0 +1,14 @@
+[
+    {
+        "name": "billet_de_5",
+        "image": "./src/assets/covers/5.jpg",
+        "reponses": ["billetde5", "billetdecinq"],
+        "final": ["Billet de 5"]
+    },
+    {
+        "name": "billy",
+        "image": "./src/assets/covers/billy.jpeg",
+        "reponses": ["billy"],
+        "final": ["Billy"]
+    }
+]

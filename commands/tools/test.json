@@ -1,0 +1,7 @@
+[
+    {
+        "question": "Question pour tester le filtre",
+        "reponses": ["motcompose"],
+        "final": ["Mot Composé !"]
+    }
+]
